@@ -3,7 +3,10 @@ from PIL import Image, ImageDraw
 import json
 import os
 
-import streamlit as st
+st.set_page_config(
+    page_title="Flag Finder",
+    page_icon="🏳️",
+)
 
 st.markdown("""
 <meta name="google-site-verification" content="VP_h96a1RKInZPnxtsMURIuxTDce8gaB4eB47lR9dPM" />

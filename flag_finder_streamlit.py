@@ -2,15 +2,16 @@ import streamlit as st
 from PIL import Image, ImageDraw
 import json
 import os
+import streamlit.components.v1 as components
 
 st.set_page_config(
     page_title="Flag Finder",
     page_icon="🏳️",
 )
 
-st.markdown("""
+components.html("""
 <meta name="google-site-verification" content="VP_h96a1RKInZPnxtsMURIuxTDce8gaB4eB47lR9dPM" />
-""", unsafe_allow_html=True)
+""", height=0)
 
 # -------------------------
 # Setup

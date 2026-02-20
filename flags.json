@@ -1,0 +1,1780 @@
+[
+  {
+    "country": "Afghanistan",
+    "code": "af",
+    "file": "flags/af.png",
+    "patterns": ["vertical", "crest"],
+    "colours": ["black", "red", "green", "white"]
+  },
+  {
+    "country": "Åland Islands",
+    "code": "ax",
+    "file": "flags/ax.png",
+    "patterns": ["cross"],
+    "colours": ["blue", "yellow", "red"]
+  },
+  {
+    "country": "Albania",
+    "code": "al",
+    "file": "flags/al.png",
+    "patterns": ["crest"],
+    "colours": ["red", "black"]
+  },
+  {
+    "country": "Algeria",
+    "code": "dz",
+    "file": "flags/dz.png",
+    "patterns": ["vertical", "crest"],
+    "colours": ["green", "white", "red"]
+  },
+  {
+    "country": "American Samoa",
+    "code": "as",
+    "file": "flags/as.png",
+    "patterns": ["triangle", "crest"],
+    "colours": ["red", "white", "blue", "yellow", "brown"]
+  },
+  {
+    "country": "Andorra",
+    "code": "ad",
+    "file": "flags/ad.png",
+    "patterns": ["vertical", "crest"],
+    "colours": ["blue", "yellow", "red", "black"]
+  },
+  {
+    "country": "Angola",
+    "code": "ao",
+    "file": "flags/ao.png",
+    "patterns": ["horizontal", "crest"],
+    "colours": ["red", "black", "yellow"]
+  },
+  {
+    "country": "Anguilla",
+    "code": "ai",
+    "file": "flags/ai.png",
+    "patterns": ["crest", "cross"],
+    "colours": ["blue", "red", "white", "yellow"]
+  },
+  {
+    "country": "Antarctica",
+    "code": "aq",
+    "file": "flags/aq.png",
+    "patterns": ["crest"],
+    "colours": ["blue", "white"]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "code": "ag",
+    "file": "flags/ag.png",
+    "patterns": ["horizontal", "star"],
+    "colours": ["red", "black", "blue", "white", "yellow"]
+  },
+  {
+    "country": "Argentina",
+    "code": "ar",
+    "file": "flags/ar.png",
+    "patterns": ["horizontal", "crest"],
+    "colours": ["blue", "white", "yellow", "brown"]
+  },
+  {
+    "country": "Armenia",
+    "code": "am",
+    "file": "flags/am.png",
+    "patterns": ["horizontal"],
+    "colours": ["red", "blue", "orange"]
+  },
+  {
+    "country": "Aruba",
+    "code": "aw",
+    "file": "flags/aw.png",
+    "patterns": ["horizontal", "star"],
+    "colours": ["blue", "yellow", "red", "white"]
+  },
+  {
+    "country": "Australia",
+    "code": "au",
+    "file": "flags/au.png",
+    "patterns": ["cross", "star"],
+    "colours": ["blue", "red", "white"]
+  },
+  {
+    "country": "Austria",
+    "code": "at",
+    "file": "flags/at.png",
+    "patterns": ["horizontal"],
+    "colours": ["red", "white"]
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "az",
+    "file": "flags/az.png",
+    "patterns": ["horizontal", "crest"],
+    "colours": ["blue", "red", "green", "white"]
+  },
+  {
+    "country": "Bahamas",
+    "code": "bs",
+    "file": "flags/bs.png",
+    "patterns": ["horizontal", "triangle"],
+    "colours": ["black", "yellow", "blue"]
+  },
+  {
+    "country": "Bahrain",
+    "code": "bh",
+    "file": "flags/bh.png",
+    "patterns": ["zigzag"],
+    "colours": ["red", "white"]
+  },
+  {
+    "country": "Bangladesh",
+    "code": "bd",
+    "file": "flags/bd.png",
+    "patterns": ["circle"],
+    "colours": ["green", "red"]
+  },
+  {
+    "country": "Barbados",
+    "code": "bb",
+    "file": "flags/bb.png",
+    "patterns": ["vertical", "crest"],
+    "colours": ["blue", "yellow", "black"]
+  },
+  {
+    "country": "Belarus",
+    "code": "by",
+    "file": "flags/by.png",
+    "patterns": ["horizontal", "crest"],
+    "colours": ["red", "green", "white"]
+  },
+  {
+    "country": "Belgium",
+    "code": "be",
+    "file": "flags/be.png",
+    "patterns": ["vertical"],
+    "colours": ["black", "yellow", "red"]
+  },
+  {
+    "country": "Belize",
+    "code": "bz",
+    "file": "flags/bz.png",
+    "patterns": ["horizontal", "crest", "circle"],
+    "colours": ["blue", "red", "white", "green", "yellow", "brown"]
+  },
+  {
+    "country": "Benin",
+    "code": "bj",
+    "file": "flags/bj.png",
+    "patterns": ["vertical", "horizontal"],
+    "colours": ["green", "yellow", "red"]
+  },
+  {
+    "country": "Bermuda",
+    "code": "bm",
+    "file": "flags/bm.png",
+    "patterns": ["cross", "crest"],
+    "colours": ["red", "blue", "white", "green", "brown", "yellow", "black"]
+  },
+  {
+    "country": "Bhutan",
+    "code": "bt",
+    "file": "flags/bt.png",
+    "patterns": ["diagonal", "dragon"],
+    "colours": ["yellow", "orange", "white"]
+  },
+  {
+    "country": "Bolivia",
+    "code": "bo",
+    "file": "flags/bo.png",
+    "patterns": ["horizontal", "crest"],
+    "colours": ["red", "yellow", "green"]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "code": "ba",
+    "file": "flags/ba.png",
+    "patterns": ["diagonal", "star"],
+    "colours": ["blue", "yellow", "white"]
+  },
+  {
+    "country": "Botswana",
+    "code": "bw",
+    "file": "flags/bw.png",
+    "patterns": ["horizontal"],
+    "colours": ["blue", "white", "black"]
+  },
+  {
+    "country": "Bouvet Island",
+    "code": "bv",
+    "file": "flags/bv.png",
+    "patterns": ["cross"],
+    "colours": ["red", "blue", "white"]
+  },
+  {
+    "country": "Brazil",
+    "code": "br",
+    "file": "flags/br.png",
+    "patterns": ["crest", "circle", "writing"],
+    "colours": ["green", "yellow", "blue", "white"]
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "code": "io",
+    "file": "flags/io.png",
+    "patterns": ["horizontal", "crest", "cross"],
+    "colours": ["blue", "white", "yellow", "red"]
+  },
+  {
+    "country": "Brunei",
+    "code": "bn",
+    "file": "flags/bn.png",
+    "patterns": ["diagonal", "crest"],
+    "colours": ["yellow", "white", "black", "red"]
+  },
+  {
+    "country": "Bulgaria",
+    "code": "bg",
+    "file": "flags/bg.png",
+    "patterns": ["horizontal"],
+    "colours": ["white", "green", "red"]
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "bf",
+    "file": "flags/bf.png",
+    "patterns": ["horizontal", "star"],
+    "colours": ["red", "green", "yellow"]
+  },
+  {
+    "country": "Burundi",
+    "code": "bi",
+    "file": "flags/bi.png",
+    "patterns": ["diagonal", "star", "circle"],
+    "colours": ["red", "green", "white"]
+  },
+  {
+    "country": "Cambodia",
+    "code": "kh",
+    "file": "flags/kh.png",
+    "patterns": ["horizontal", "crest"],
+    "colours": ["blue", "red", "white"]
+  },
+  {
+    "country": "Cameroon",
+    "code": "cm",
+    "file": "flags/cm.png",
+    "patterns": ["vertical", "star"],
+    "colours": ["green", "red", "yellow"]
+  },
+  {
+    "country": "Canada",
+    "code": "ca",
+    "file": "flags/ca.png",
+    "patterns": ["vertical", "crest"],
+    "colours": ["red", "white"]
+  },
+  {
+    "country": "Cape Verde",
+    "code": "cv",
+    "file": "flags/cv.png",
+    "patterns": ["horizontal", "star"],
+    "colours": ["blue", "white", "red", "yellow"]
+  },
+  {
+    "country": "Caribbean Netherlands",
+    "code": "bq",
+    "file": "flags/bq.png",
+    "patterns": ["horizontal", "crest"],
+    "colours": ["blue", "white", "red", "yellow"]
+  },
+  {
+    "country": "Cayman Islands",
+    "code": "ky",
+    "file": "flags/ky.png",
+    "patterns": ["cross", "crest"],
+    "colours": ["blue", "red", "white", "yellow", "green"]
+  },
+  {
+    "country": "Central African Republic",
+    "code": "cf",
+    "file": "flags/cf.png",
+    "patterns": ["horizontal", "vertical", "star"],
+    "colours": ["blue", "white", "green", "yellow", "red"]
+  },
+  {
+    "country": "Chad",
+    "code": "td",
+    "file": "flags/td.png",
+    "patterns": ["vertical"],
+    "colours": ["blue", "yellow", "red"]
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "file": "flags/cl.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "China",
+    "code": "cn",
+    "file": "flags/cn.png",
+    "colours": ["red", "yellow"],
+    "patterns": ["star"]
+  },
+  {
+    "country": "Christmas Island",
+    "code": "cx",
+    "file": "flags/cx.png",
+    "colours": ["blue", "green", "yellow", "white"],
+    "patterns": ["diagonal", "star"]
+  },
+  {
+    "country": "Cocos Islands",
+    "code": "cc",
+    "file": "flags/cc.png",
+    "colours": ["green", "yellow", "white"],
+    "patterns": ["crest", "star"]
+  },
+  {
+    "country": "Colombia",
+    "code": "co",
+    "file": "flags/co.png",
+    "colours": ["yellow", "blue", "red"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Comoros",
+    "code": "km",
+    "file": "flags/km.png",
+    "colours": ["yellow", "white", "red", "blue", "green"],
+    "patterns": ["horizontal", "triangle", "star"]
+  },
+  {
+    "country": "Republic of the Congo",
+    "code": "cg",
+    "file": "flags/cg.png",
+    "colours": ["green", "yellow", "red"],
+    "patterns": ["diagonal"]
+  },
+  {
+    "country": "DR Congo",
+    "code": "cd",
+    "file": "flags/cd.png",
+    "colours": ["blue", "red", "yellow"],
+    "patterns": ["diagonal", "star"]
+  },
+  {
+    "country": "Cook Islands",
+    "code": "ck",
+    "file": "flags/ck.png",
+    "colours": ["blue", "red", "white"],
+    "patterns": ["horizontal", "star", "cross"]
+  },
+  {
+    "country": "Costa Rica",
+    "code": "cr",
+    "file": "flags/cr.png",
+    "colours": ["blue", "white", "red"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "code": "ci",
+    "file": "flags/ci.png",
+    "colours": ["orange", "white", "green"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "Croatia",
+    "code": "hr",
+    "file": "flags/hr.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Cuba",
+    "code": "cu",
+    "file": "flags/cu.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal", "triangle", "star"]
+  },
+  {
+    "country": "Curaçao",
+    "code": "cw",
+    "file": "flags/cw.png",
+    "colours": ["blue", "yellow", "white"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Cyprus",
+    "code": "cy",
+    "file": "flags/cy.png",
+    "colours": ["white", "orange", "green"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Czechia",
+    "code": "cz",
+    "file": "flags/cz.png",
+    "colours": ["white", "red", "blue"],
+    "patterns": ["horizontal", "triangle"]
+  },
+  {
+    "country": "Denmark",
+    "code": "dk",
+    "file": "flags/dk.png",
+    "colours": ["red", "white"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Djibouti",
+    "code": "dj",
+    "file": "flags/dj.png",
+    "colours": ["blue", "green", "white", "red"],
+    "patterns": ["horizontal", "triangle", "star"]
+  },
+  {
+    "country": "Dominica",
+    "code": "dm",
+    "file": "flags/dm.png",
+    "colours": ["green", "yellow", "black", "white", "red"],
+    "patterns": ["cross", "crest", "circle"]
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "do",
+    "file": "flags/do.png",
+    "colours": ["red", "blue", "white"],
+    "patterns": ["cross", "crest"]
+  },
+  {
+    "country": "Ecuador",
+    "code": "ec",
+    "file": "flags/ec.png",
+    "colours": ["yellow", "blue", "red"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Egypt",
+    "code": "eg",
+    "file": "flags/eg.png",
+    "colours": ["red", "white", "black", "yellow"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "El Salvador",
+    "code": "sv",
+    "file": "flags/sv.png",
+    "colours": ["blue", "white"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "England",
+    "code": "gb-eng",
+    "file": "flags/gb-eng.png",
+    "colours": ["white", "red"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "gq",
+    "file": "flags/gq.png",
+    "colours": ["green", "white", "red", "blue", "yellow"],
+    "patterns": ["horizontal", "triangle", "crest"]
+  },
+  {
+    "country": "Eritrea",
+    "code": "er",
+    "file": "flags/er.png",
+    "colours": ["red", "green", "blue", "yellow"],
+    "patterns": ["triangle", "crest"]
+  },
+  {
+    "country": "Estonia",
+    "code": "ee",
+    "file": "flags/ee.png",
+    "colours": ["blue", "black", "white"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Eswatini",
+    "code": "sz",
+    "file": "flags/sz.png",
+    "colours": ["blue", "red", "yellow", "black", "white"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Ethiopia",
+    "code": "et",
+    "file": "flags/et.png",
+    "colours": ["green", "yellow", "red", "blue"],
+    "patterns": ["horizontal", "crest", "circle"]
+  },
+  {
+    "country": "Falkland Islands",
+    "code": "fk",
+    "file": "flags/fk.png",
+    "colours": ["blue", "red", "white", "yellow", "green"],
+    "patterns": ["crest", "cross"]
+  },
+  {
+    "country": "Faroe Islands",
+    "code": "fo",
+    "file": "flags/fo.png",
+    "colours": ["white", "red", "blue"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Fiji",
+    "code": "fj",
+    "file": "flags/fj.png",
+    "colours": ["blue", "red", "white", "yellow", "green"],
+    "patterns": ["cross", "crest"]
+  },
+  {
+    "country": "Finland",
+    "code": "fi",
+    "file": "flags/fi.png",
+    "colours": ["white", "blue"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "France",
+    "code": "fr",
+    "file": "flags/fr.png",
+    "colours": ["blue", "white", "red"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "French Guiana",
+    "code": "gf",
+    "file": "flags/gf.png",
+    "colours": ["green", "yellow", "red"],
+    "patterns": ["diagonal", "star"]
+  },
+  {
+    "country": "French Polynesia",
+    "code": "pf",
+    "file": "flags/pf.png",
+    "colours": ["red", "white", "blue", "yellow", "green"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "French Southern and Antarctic Lands",
+    "code": "tf",
+    "file": "flags/tf.png",
+    "colours": ["blue", "white", "red", "yellow"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Gabon",
+    "code": "ga",
+    "file": "flags/ga.png",
+    "colours": ["green", "yellow", "blue"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Gambia",
+    "code": "gm",
+    "file": "flags/gm.png",
+    "colours": ["red", "blue", "green", "white"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Georgia",
+    "code": "ge",
+    "file": "flags/ge.png",
+    "colours": ["white", "red"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Germany",
+    "code": "de",
+    "file": "flags/de.png",
+    "colours": ["black", "red", "yellow"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Ghana",
+    "code": "gh",
+    "file": "flags/gh.png",
+    "colours": ["red", "yellow", "green", "black"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Gibraltar",
+    "code": "gi",
+    "file": "flags/gi.png",
+    "colours": ["white", "red", "yellow", "black"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Greece",
+    "code": "gr",
+    "file": "flags/gr.png",
+    "colours": ["blue", "white"],
+    "patterns": ["horizontal", "cross"]
+  },
+  {
+    "country": "Greenland",
+    "code": "gl",
+    "file": "flags/gl.png",
+    "colours": ["white", "red"],
+    "patterns": ["horizontal", "circle"]
+  },
+  {
+    "country": "Grenada",
+    "code": "gd",
+    "file": "flags/gd.png",
+    "colours": ["red", "yellow", "green"],
+    "patterns": ["diagonal", "star", "circle"]
+  },
+  {
+    "country": "Guadeloupe",
+    "code": "gp",
+    "file": "flags/gp.png",
+    "colours": ["blue", "white", "red", "yellow"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Guam",
+    "code": "gu",
+    "file": "flags/gu.png",
+    "colours": ["blue", "red", "yellow", "green", "brown"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Guatemala",
+    "code": "gt",
+    "file": "flags/gt.png",
+    "colours": ["blue", "white", "yellow", "green", "red"],
+    "patterns": ["vertical", "crest"]
+  },
+  {
+    "country": "Guernsey",
+    "code": "gg",
+    "file": "flags/gg.png",
+    "colours": ["white", "red", "yellow"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Guinea",
+    "code": "gn",
+    "file": "flags/gn.png",
+    "colours": ["red", "yellow", "green"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "gw",
+    "file": "flags/gw.png",
+    "colours": ["red", "yellow", "green", "black"],
+    "patterns": ["vertical", "horizontal", "star"]
+  },
+  {
+    "country": "Guyana",
+    "code": "gy",
+    "file": "flags/gy.png",
+    "colours": ["green", "white", "red", "black", "yellow"],
+    "patterns": ["triangle"]
+  },
+  {
+    "country": "Haiti",
+    "code": "ht",
+    "file": "flags/ht.png",
+    "colours": ["blue", "red", "white", "yellow", "green"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "code": "hm",
+    "file": "flags/hm.png",
+    "colours": ["blue"],
+    "patterns": ["star", "cross"]
+  },
+  {
+    "country": "Honduras",
+    "code": "hn",
+    "file": "flags/hn.png",
+    "colours": ["blue", "white"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Hong Kong",
+    "code": "hk",
+    "file": "flags/hk.png",
+    "colours": ["red", "white"],
+    "patterns": ["crest", "star"]
+  },
+  {
+    "country": "Hungary",
+    "code": "hu",
+    "file": "flags/hu.png",
+    "colours": ["red", "white", "green"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Iceland",
+    "code": "is",
+    "file": "flags/is.png",
+    "colours": ["blue", "red", "white"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "India",
+    "code": "in",
+    "file": "flags/in.png",
+    "colours": ["orange", "white", "green", "blue"],
+    "patterns": ["horizontal", "crest", "circle"]
+  },
+  {
+    "country": "Indonesia",
+    "code": "id",
+    "file": "flags/id.png",
+    "colours": ["red", "white"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Iran",
+    "code": "ir",
+    "file": "flags/ir.png",
+    "colours": ["green", "white", "red"],
+    "patterns": ["horizontal", "writing", "crest"]
+  },
+  {
+    "country": "Iraq",
+    "code": "iq",
+    "file": "flags/iq.png",
+    "colours": ["red", "white", "black", "green"],
+    "patterns": ["horizontal", "writing"]
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "file": "flags/ie.png",
+    "colours": ["green", "white", "orange"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "Isle of Man",
+    "code": "im",
+    "file": "flags/im.png",
+    "colours": ["red", "yellow"],
+    "patterns": ["crest", "cross"]
+  },
+  {
+    "country": "Israel",
+    "code": "il",
+    "file": "flags/il.png",
+    "colours": ["white", "blue"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Italy",
+    "code": "it",
+    "file": "flags/it.png",
+    "colours": ["green", "white", "red"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "Jamaica",
+    "code": "jm",
+    "file": "flags/jm.png",
+    "colours": ["green", "black", "yellow"],
+    "patterns": ["diagonal"]
+  },
+  {
+    "country": "Japan",
+    "code": "jp",
+    "file": "flags/jp.png",
+    "colours": ["white", "red"],
+    "patterns": ["circle"]
+  },
+  {
+    "country": "Jersey",
+    "code": "je",
+    "file": "flags/je.png",
+    "colours": ["white", "red", "yellow"],
+    "patterns": ["diagonal", "crest", "cross"]
+  },
+  {
+    "country": "Jordan",
+    "code": "jo",
+    "file": "flags/jo.png",
+    "colours": ["black", "white", "green", "red"],
+    "patterns": ["horizontal", "triangle", "star"]
+  },
+  {
+    "country": "Kazakhstan",
+    "code": "kz",
+    "file": "flags/kz.png",
+    "colours": ["blue", "yellow"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Kenya",
+    "code": "ke",
+    "file": "flags/ke.png",
+    "colours": ["black", "red", "green", "white"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Kiribati",
+    "code": "ki",
+    "file": "flags/ki.png",
+    "colours": ["red", "blue", "white", "yellow"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "North Korea",
+    "code": "kp",
+    "file": "flags/kp.png",
+    "colours": ["red", "blue", "white"],
+    "patterns": ["horizontal", "star", "circle"]
+  },
+  {
+    "country": "South Korea",
+    "code": "kr",
+    "file": "flags/kr.png",
+    "colours": ["white", "red", "blue", "black"],
+    "patterns": ["crest", "circle"]
+  },
+  {
+    "country": "Kosovo",
+    "code": "xk",
+    "file": "flags/xk.png",
+    "colours": ["blue", "yellow", "white"],
+    "patterns": ["crest", "star"]
+  },
+  {
+    "country": "Kuwait",
+    "code": "kw",
+    "file": "flags/kw.png",
+    "colours": ["green", "white", "red", "black"],
+    "patterns": ["horizontal", "triangle"]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "code": "kg",
+    "file": "flags/kg.png",
+    "colours": ["red", "yellow"],
+    "patterns": ["crest", "circle", "star"]
+  },
+  {
+    "country": "Laos",
+    "code": "la",
+    "file": "flags/la.png",
+    "colours": ["red", "blue", "white"],
+    "patterns": ["horizontal", "circle"]
+  },
+  {
+    "country": "Latvia",
+    "code": "lv",
+    "file": "flags/lv.png",
+    "colours": ["red", "white"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Lebanon",
+    "code": "lb",
+    "file": "flags/lb.png",
+    "colours": ["red", "white", "green"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Lesotho",
+    "code": "ls",
+    "file": "flags/ls.png",
+    "colours": ["blue", "white", "green", "black"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Liberia",
+    "code": "lr",
+    "file": "flags/lr.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Libya",
+    "code": "ly",
+    "file": "flags/ly.png",
+    "colours": ["red", "black", "green", "white"],
+    "patterns": ["horizontal", "crescent", "star"]
+  },
+  {
+    "country": "Liechtenstein",
+    "code": "li",
+    "file": "flags/li.png",
+    "colours": ["blue", "red", "yellow"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Lithuania",
+    "code": "lt",
+    "file": "flags/lt.png",
+    "colours": ["yellow", "green", "red"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Luxembourg",
+    "code": "lu",
+    "file": "flags/lu.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Macau",
+    "code": "mo",
+    "file": "flags/mo.png",
+    "colours": ["green", "white", "yellow", "red"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Madagascar",
+    "code": "mg",
+    "file": "flags/mg.png",
+    "colours": ["red", "green", "white"],
+    "patterns": ["vertical", "horizontal"]
+  },
+  {
+    "country": "Malawi",
+    "code": "mw",
+    "file": "flags/mw.png",
+    "colours": ["black", "red", "green", "white"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Malaysia",
+    "code": "my",
+    "file": "flags/my.png",
+    "colours": ["red", "white", "blue", "yellow"],
+    "patterns": ["horizontal", "crest", "star", "crescent"]
+  },
+  {
+    "country": "Maldives",
+    "code": "mv",
+    "file": "flags/mv.png",
+    "colours": ["red", "green", "white"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Mali",
+    "code": "ml",
+    "file": "flags/ml.png",
+    "colours": ["green", "yellow", "red"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "Malta",
+    "code": "mt",
+    "file": "flags/mt.png",
+    "colours": ["white", "red", "blue", "yellow"],
+    "patterns": ["vertical", "crest"]
+  },
+  {
+    "country": "Marshall Islands",
+    "code": "mh",
+    "file": "flags/mh.png",
+    "colours": ["blue", "orange", "white", "yellow"],
+    "patterns": ["diagonal", "star"]
+  },
+  {
+    "country": "Martinique",
+    "code": "mq",
+    "file": "flags/mq.png",
+    "colours": ["blue", "white"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Mauritania",
+    "code": "mr",
+    "file": "flags/mr.png",
+    "colours": ["green", "yellow", "red"],
+    "patterns": ["horizontal", "crescent", "star"]
+  },
+  {
+    "country": "Mauritius",
+    "code": "mu",
+    "file": "flags/mu.png",
+    "colours": ["red", "blue", "yellow", "green"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Mayotte",
+    "code": "yt",
+    "file": "flags/yt.png",
+    "colours": ["white", "blue", "red", "yellow", "green"],
+    "patterns": ["crest", "writing"]
+  },
+  {
+    "country": "Mexico",
+    "code": "mx",
+    "file": "flags/mx.png",
+    "colours": ["green", "white", "red", "brown", "yellow"],
+    "patterns": ["vertical", "crest"]
+  },
+  {
+    "country": "Micronesia",
+    "code": "fm",
+    "file": "flags/fm.png",
+    "colours": ["blue", "white"],
+    "patterns": ["star"]
+  },
+  {
+    "country": "Moldova",
+    "code": "md",
+    "file": "flags/md.png",
+    "colours": ["blue", "yellow", "red", "brown", "green", "white"],
+    "patterns": ["vertical", "crest"]
+  },
+  {
+    "country": "Monaco",
+    "code": "mc",
+    "file": "flags/mc.png",
+    "colours": ["red", "white"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Mongolia",
+    "code": "mn",
+    "file": "flags/mn.png",
+    "colours": ["red", "blue", "yellow"],
+    "patterns": ["vertical", "crest"]
+  },
+  {
+    "country": "Montenegro",
+    "code": "me",
+    "file": "flags/me.png",
+    "colours": ["red", "yellow", "blue", "green", "white"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Montserrat",
+    "code": "ms",
+    "file": "flags/ms.png",
+    "colours": ["blue", "red", "white", "yellow", "green"],
+    "patterns": ["cross", "crest"]
+  },
+  {
+    "country": "Morocco",
+    "code": "ma",
+    "file": "flags/ma.png",
+    "colours": ["red", "green"],
+    "patterns": ["star"]
+  },
+  {
+    "country": "Mozambique",
+    "code": "mz",
+    "file": "flags/mz.png",
+    "colours": ["green", "black", "yellow", "red", "white"],
+    "patterns": ["horizontal", "triangle", "star", "crest"]
+  },
+  {
+    "country": "Myanmar",
+    "code": "mm",
+    "file": "flags/mm.png",
+    "colours": ["yellow", "green", "red", "white"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Namibia",
+    "code": "na",
+    "file": "flags/na.png",
+    "colours": ["blue", "red", "green", "white", "yellow"],
+    "patterns": ["diagonal", "star", "triangle"]
+  },
+  {
+    "country": "Nauru",
+    "code": "nr",
+    "file": "flags/nr.png",
+    "colours": ["blue", "yellow", "white"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Nepal",
+    "code": "np",
+    "file": "flags/np.png",
+    "colours": ["red", "blue", "white"],
+    "patterns": ["triangle", "crest"]
+  },
+  {
+    "country": "Netherlands",
+    "code": "nl",
+    "file": "flags/nl.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "New Caledonia",
+    "code": "nc",
+    "file": "flags/nc.png",
+    "colours": ["blue", "red", "green", "yellow", "white", "black"],
+    "patterns": ["horizontal", "star", "crest"]
+  },
+  {
+    "country": "New Zealand",
+    "code": "nz",
+    "file": "flags/nz.png",
+    "colours": ["blue", "red", "white"],
+    "patterns": ["cross", "star"]
+  },
+  {
+    "country": "Nicaragua",
+    "code": "ni",
+    "file": "flags/ni.png",
+    "colours": ["blue", "white", "yellow", "green", "red"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Niger",
+    "code": "ne",
+    "file": "flags/ne.png",
+    "colours": ["orange", "white", "green"],
+    "patterns": ["horizontal", "circle"]
+  },
+  {
+    "country": "Nigeria",
+    "code": "ng",
+    "file": "flags/ng.png",
+    "colours": ["green", "white"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "Niue",
+    "code": "nu",
+    "file": "flags/nu.png",
+    "colours": ["yellow", "blue", "red", "white"],
+    "patterns": ["cross", "star", "crest"]
+  },
+  {
+    "country": "Norfolk Island",
+    "code": "nf",
+    "file": "flags/nf.png",
+    "colours": ["green", "white"],
+    "patterns": ["vertical", "crest"]
+  },
+  {
+    "country": "North Macedonia",
+    "code": "mk",
+    "file": "flags/mk.png",
+    "colours": ["red", "yellow"],
+    "patterns": ["diagonal", "star"]
+  },
+  {
+    "country": "Northern Ireland",
+    "code": "ni",
+    "file": "flags/ni.png",
+    "colours": ["white", "red", "yellow", "green"],
+    "patterns": ["cross", "crest"]
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "code": "mp",
+    "file": "flags/mp.png",
+    "colours": ["blue", "white", "red", "yellow", "brown"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Norway",
+    "code": "no",
+    "file": "flags/no.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Oman",
+    "code": "om",
+    "file": "flags/om.png",
+    "colours": ["white", "red", "green"],
+    "patterns": ["vertical", "horizontal", "crest"]
+  },
+  {
+    "country": "Pakistan",
+    "code": "pk",
+    "file": "flags/pk.png",
+    "colours": ["green", "white"],
+    "patterns": ["vertical", "crescent", "star"]
+  },
+  {
+    "country": "Palau",
+    "code": "pw",
+    "file": "flags/pw.png",
+    "colours": ["blue", "yellow"],
+    "patterns": ["circle"]
+  },
+  {
+    "country": "Palestine",
+    "code": "ps",
+    "file": "flags/ps.png",
+    "colours": ["black", "white", "green", "red"],
+    "patterns": ["horizontal", "triangle"]
+  },
+  {
+    "country": "Panama",
+    "code": "pa",
+    "file": "flags/pa.png",
+    "colours": ["red", "blue", "white"],
+    "patterns": ["cross", "star"]
+  },
+  {
+    "country": "Papua New Guinea",
+    "code": "pg",
+    "file": "flags/pg.png",
+    "colours": ["black", "red", "yellow", "white"],
+    "patterns": ["diagonal", "star", "crest"]
+  },
+  {
+    "country": "Paraguay",
+    "code": "py",
+    "file": "flags/py.png",
+    "colours": ["red", "white", "blue", "yellow", "green", "brown"],
+    "patterns": ["horizontal", "crest", "circle"]
+  },
+  {
+    "country": "Peru",
+    "code": "pe",
+    "file": "flags/pe.png",
+    "colours": ["red", "white", "yellow", "green", "brown", "blue"],
+    "patterns": ["vertical", "crest"]
+  },
+  {
+    "country": "Philippines",
+    "code": "ph",
+    "file": "flags/ph.png",
+    "colours": ["blue", "red", "white", "yellow"],
+    "patterns": ["horizontal", "triangle", "star"]
+  },
+  {
+    "country": "Pitcairn Islands",
+    "code": "pn",
+    "file": "flags/pn.png",
+    "colours": ["blue", "yellow", "green", "red", "white", "brown"],
+    "patterns": ["crest", "cross"]
+  },
+  {
+    "country": "Poland",
+    "code": "pl",
+    "file": "flags/pl.png",
+    "colours": ["white", "red"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Portugal",
+    "code": "pt",
+    "file": "flags/pt.png",
+    "colours": ["green", "red", "yellow", "blue", "white", "brown"],
+    "patterns": ["vertical", "crest", "circle"]
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "pr",
+    "file": "flags/pr.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal", "triangle", "star"]
+  },
+  {
+    "country": "Qatar",
+    "code": "qa",
+    "file": "flags/qa.png",
+    "colours": ["maroon", "white"],
+    "patterns": ["zigzag"]
+  },
+  {
+    "country": "Réunion",
+    "code": "re",
+    "file": "flags/re.png",
+    "colours": ["blue", "white", "red", "yellow", "green"],
+    "patterns": ["diagonal"]
+  },
+  {
+    "country": "Romania",
+    "code": "ro",
+    "file": "flags/ro.png",
+    "colours": ["blue", "yellow", "red"],
+    "patterns": ["vertical"]
+  },
+  {
+    "country": "Russia",
+    "code": "ru",
+    "file": "flags/ru.png",
+    "colours": ["white", "blue", "red"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Rwanda",
+    "code": "rw",
+    "file": "flags/rw.png",
+    "colours": ["blue", "yellow", "green", "red"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Saint Barthélemy",
+    "code": "bl",
+    "file": "flags/bl.png",
+    "colours": ["white", "blue", "yellow", "red", "green", "brown"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "sh",
+    "file": "flags/sh.png",
+    "colours": ["blue", "red", "white", "yellow", "green", "brown"],
+    "patterns": ["crest", "cross"]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "code": "kn",
+    "file": "flags/kn.png",
+    "colours": ["green", "yellow", "black", "red", "white"],
+    "patterns": ["diagonal", "star"]
+  },
+  {
+    "country": "Saint Lucia",
+    "code": "lc",
+    "file": "flags/lc.png",
+    "colours": ["blue", "yellow", "black", "white"],
+    "patterns": ["triangle"]
+  },
+  {
+    "country": "Saint Martin",
+    "code": "mf",
+    "file": "flags/mf.png",
+    "colours": ["red", "white", "blue", "yellow", "green", "brown"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "code": "pm",
+    "file": "flags/pm.png",
+    "colours": ["blue", "white", "red", "yellow", "green", "brown"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "code": "vc",
+    "file": "flags/vc.png",
+    "colours": ["blue", "yellow", "green"],
+    "patterns": ["triangle"]
+  },
+  {
+    "country": "Samoa",
+    "code": "ws",
+    "file": "flags/ws.png",
+    "colours": ["red", "blue", "white"],
+    "patterns": ["crest", "star"]
+  },
+  {
+    "country": "San Marino",
+    "code": "sm",
+    "file": "flags/sm.png",
+    "colours": ["white", "blue", "yellow", "brown", "green"],
+    "patterns": ["crest"]
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "code": "st",
+    "file": "flags/st.png",
+    "colours": ["green", "yellow", "red", "black"],
+    "patterns": ["horizontal", "triangle", "star"]
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "sa",
+    "file": "flags/sa.png",
+    "colours": ["green", "white"],
+    "patterns": ["writing", "crest", "sword"]
+  },
+  {
+    "country": "Scotland",
+    "code": "sc",
+    "file": "flags/sc.png",
+    "colours": ["blue", "white"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Senegal",
+    "code": "sn",
+    "file": "flags/sn.png",
+    "colours": ["green", "yellow", "red"],
+    "patterns": ["vertical", "star"]
+  },
+  {
+    "country": "Serbia",
+    "code": "rs",
+    "file": "flags/rs.png",
+    "colours": ["red", "blue", "white", "yellow"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Seychelles",
+    "code": "sc",
+    "file": "flags/sc.png",
+    "colours": ["blue", "yellow", "red", "white", "green"],
+    "patterns": ["diagonal"]
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "sl",
+    "file": "flags/sl.png",
+    "colours": ["green", "white", "blue"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Singapore",
+    "code": "sg",
+    "file": "flags/sg.png",
+    "colours": ["red", "white"],
+    "patterns": ["horizontal", "star", "crescent"]
+  },
+  {
+    "country": "Sint Maarten",
+    "code": "sx",
+    "file": "flags/sx.png",
+    "colours": ["red", "white", "blue", "yellow"],
+    "patterns": ["triangle", "crest"]
+  },
+  {
+    "country": "Slovakia",
+    "code": "sk",
+    "file": "flags/sk.png",
+    "colours": ["white", "blue", "red", "yellow"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Slovenia",
+    "code": "si",
+    "file": "flags/si.png",
+    "colours": ["white", "blue", "red", "yellow"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Solomon Islands",
+    "code": "sb",
+    "file": "flags/sb.png",
+    "colours": ["blue", "green", "yellow", "white"],
+    "patterns": ["diagonal", "star"]
+  },
+  {
+    "country": "Somalia",
+    "code": "so",
+    "file": "flags/so.png",
+    "colours": ["blue", "white"],
+    "patterns": ["star"]
+  },
+  {
+    "country": "South Africa",
+    "code": "za",
+    "file": "flags/za.png",
+    "colours": ["green", "yellow", "black", "white", "red", "blue"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "South Georgia",
+    "code": "gs",
+    "file": "flags/gs.png",
+    "colours": ["blue", "white", "yellow", "red"],
+    "patterns": ["crest", "cross"]
+  },
+  {
+    "country": "South Sudan",
+    "code": "ss",
+    "file": "flags/ss.png",
+    "colours": ["black", "red", "green", "blue", "white", "yellow"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Spain",
+    "code": "es",
+    "file": "flags/es.png",
+    "colours": ["red", "yellow", "blue", "white"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Sri Lanka",
+    "code": "lk",
+    "file": "flags/lk.png",
+    "colours": ["maroon", "orange", "green", "yellow"],
+    "patterns": ["cross", "crest", "sword"]
+  },
+  {
+    "country": "Sudan",
+    "code": "sd",
+    "file": "flags/sd.png",
+    "colours": ["red", "white", "black", "green"],
+    "patterns": ["horizontal", "triangle"]
+  },
+  {
+    "country": "Suriname",
+    "code": "sr",
+    "file": "flags/sr.png",
+    "colours": ["green", "white", "red", "yellow"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "code": "sj",
+    "file": "flags/sj.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Sweden",
+    "code": "se",
+    "file": "flags/se.png",
+    "colours": ["blue", "yellow"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Switzerland",
+    "code": "ch",
+    "file": "flags/ch.png",
+    "colours": ["red", "white"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Syria",
+    "code": "sy",
+    "file": "flags/sy.png",
+    "colours": ["red", "white", "black", "green"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "file": "flags/tw.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["star", "cross"]
+  },
+  {
+    "country": "Tajikistan",
+    "code": "tj",
+    "file": "flags/tj.png",
+    "colours": ["red", "white", "green", "yellow"],
+    "patterns": ["horizontal", "crest"]
+  },
+  {
+    "country": "Tanzania",
+    "code": "tz",
+    "file": "flags/tz.png",
+    "colours": ["green", "yellow", "black", "blue"],
+    "patterns": ["diagonal"]
+  },
+  {
+    "country": "Thailand",
+    "code": "th",
+    "file": "flags/th.png",
+    "colours": ["red", "white", "blue"],
+    "patterns": ["horizontal"]
+  },
+  {
+    "country": "Timor-Leste",
+    "code": "tl",
+    "file": "flags/tl.png",
+    "colours": ["red", "black", "yellow", "white"],
+    "patterns": ["triangle", "star"]
+  },
+  {
+    "country": "Togo",
+    "code": "tg",
+    "file": "flags/tg.png",
+    "colours": ["green", "yellow", "red", "white"],
+    "patterns": ["horizontal", "star"]
+  },
+  {
+    "country": "Tokelau",
+    "code": "tk",
+    "file": "flags/tk.png",
+    "colours": ["blue", "yellow", "white"],
+    "patterns": ["star", "crescent", "cross"]
+  },
+  {
+    "country": "Tonga",
+    "code": "to",
+    "file": "flags/to.png",
+    "colours": ["red", "white"],
+    "patterns": ["cross"]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "code": "tt",
+    "file": "flags/tt.png",
+    "colours": ["red", "white", "black"],
+    "patterns": ["diagonal"]
+  },
+  {
+    "country": "Tunisia",
+    "code": "tn",
+    "file": "flags/tn.png",
+    "colours": ["red", "white"],
+    "patterns": ["circle", "star", "crescent"]
+  },
+  {
+    "country": "Turkey",
+    "code": "tr",
+    "file": "flags/tr.png",
+    "colours": ["red", "white"],
+    "patterns": ["star", "crescent"]
+  },
+  {
+    "country": "Turkmenistan",
+    "code": "tm",
+    "file": "flags/tm.png",
+    "colours": ["green", "red", "white", "yellow"],
+    "patterns": ["vertical", "crescent", "star"]
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "code": "tc",
+    "file": "flags/tc.png",
+    "colours": ["blue", "white", "red", "yellow", "green"],
+    "patterns": ["crest", "cross"]
+  },
+  {
+    "country": "Tuvalu",
+    "code": "tv",
+    "file": "flags/tv.png",
+    "colours": ["blue", "yellow", "red", "white"],
+    "patterns": ["star", "cross"]
+  },
+  {
+      "country": "Uganda",
+      "code": "ug",
+      "file": "flags/ug.png",
+      "colours": ["black", "yellow", "red", "white"],
+      "patterns": ["horizontal", "crest", "circle"]
+  },
+  {
+      "country": "Ukraine",
+      "code": "ua",
+      "file": "flags/ua.png",
+      "colours": ["blue", "yellow"],
+      "patterns": ["horizontal"]
+  },
+  {
+      "country": "United Arab Emirates",
+      "code": "ae",
+      "file": "flags/ae.png",
+      "colours": ["green", "white", "black", "red"],
+      "patterns": ["horizontal", "vertical"]
+  },
+  {
+      "country": "United Kingdom",
+      "code": "gb",
+      "file": "flags/gb.png",
+      "colours": ["red", "white", "blue"],
+      "patterns": ["cross", "diagonal"]
+  },
+  {
+      "country": "United States",
+      "code": "us",
+      "file": "flags/us.png",
+      "colours": ["red", "white", "blue"],
+      "patterns": ["horizontal", "star"]
+  },
+  {
+      "country": "United States Minor Outlying Islands",
+      "code": "um",
+      "file": "flags/um.png",
+      "colours": ["red", "white", "blue"],
+      "patterns": ["star", "horizontal"]
+  },
+  {
+      "country": "Uruguay",
+      "code": "uy",
+      "file": "flags/uy.png",
+      "colours": ["blue", "white", "yellow"],
+      "patterns": ["horizontal", "star"]
+  },
+  {
+      "country": "Uzbekistan",
+      "code": "uz",
+      "file": "flags/uz.png",
+      "colours": ["blue", "white", "green", "red"],
+      "patterns": ["horizontal", "crescent", "star"]
+  },
+  {
+      "country": "Vanuatu",
+      "code": "vu",
+      "file": "flags/vu.png",
+      "colours": ["red", "green", "black", "yellow"],
+      "patterns": ["triangle", "horizontal"]
+  },
+  {
+      "country": "Vatican City",
+      "code": "va",
+      "file": "flags/va.png",
+      "colours": ["yellow", "white", "red"],
+      "patterns": ["vertical", "crest"]
+  },
+  {
+      "country": "Venezuela",
+      "code": "ve",
+      "file": "flags/ve.png",
+      "colours": ["yellow", "blue", "red", "white"],
+      "patterns": ["horizontal", "star"]
+  },
+  {
+      "country": "Vietnam",
+      "code": "vn",
+      "file": "flags/vn.png",
+      "colours": ["red", "yellow"],
+      "patterns": ["star"]
+  },
+  {
+      "country": "British Virgin Islands",
+      "code": "vg",
+      "file": "flags/vg.png",
+      "colours": ["blue", "red", "white", "green", "yellow"],
+      "patterns": ["cross", "crest"]
+  },
+  {
+      "country": "United States Virgin Islands",
+      "code": "vi",
+      "file": "flags/vi.png",
+      "colours": ["white", "yellow", "red", "blue", "green", "black"],
+      "patterns": ["crest"]
+  },
+  {
+      "country": "Wales",
+      "code": "gb-wls",
+      "file": "flags/gb-wls.png",
+      "colours": ["white", "green", "red", "yellow"],
+      "patterns": ["dragon", "horizontal"]
+  },
+  {
+      "country": "Wallis and Futuna",
+      "code": "wf",
+      "file": "flags/wf.png",
+      "colours": ["red", "white", "blue"],
+      "patterns": ["cross"]
+  },
+  {
+      "country": "Western Sahara",
+      "code": "eh",
+      "file": "flags/eh.png",
+      "colours": ["black", "white", "green", "red"],
+      "patterns": ["horizontal", "triangle", "star", "crescent"]
+  },
+  {
+      "country": "Yemen",
+      "code": "ye",
+      "file": "flags/ye.png",
+      "colours": ["red", "white", "black"],
+      "patterns": ["horizontal"]
+  },
+  {
+      "country": "Zambia",
+      "code": "zm",
+      "file": "flags/zm.png",
+      "colours": ["green", "red", "black", "orange"],
+      "patterns": ["vertical", "crest"]
+  },
+  {
+      "country": "Zimbabwe",
+      "code": "zw",
+      "file": "flags/zw.png",
+      "colours": ["green", "yellow", "red", "black", "white"],
+      "patterns": ["horizontal", "triangle", "star", "crest"]
+  }
+]

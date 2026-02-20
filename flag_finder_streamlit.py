@@ -1,8 +1,8 @@
 import streamlit as st
+import streamlit.components.v1 as components
 from PIL import Image, ImageDraw
 import json
 import os
-import streamlit.components.v1 as components
 
 st.set_page_config(
     page_title="Flag Finder",

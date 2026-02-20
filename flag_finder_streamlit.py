@@ -9,10 +9,12 @@ st.set_page_config(
     page_icon="🏳️",
 )
 
-components.html("""
-<meta name="google-site-verification" content="VP_h96a1RKInZPnxtsMURIuxTDce8gaB4eB47lR9dPM" />
-""", height=0)
-
+st.markdown(
+    """
+    <meta name="google-site-verification" content="VP_h96a1RKInZPnxtsMURIuxTDce8gaB4eB47lR9dPM" />
+    """,
+    unsafe_allow_html=True
+)
 # -------------------------
 # Setup
 # -------------------------

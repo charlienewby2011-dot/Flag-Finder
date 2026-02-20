@@ -3,6 +3,12 @@ from PIL import Image, ImageDraw
 import json
 import os
 
+import streamlit as st
+
+st.markdown("""
+<meta name="google-site-verification" content="VP_h96a1RKInZPnxtsMURIuxTDce8gaB4eB47lR9dPM" />
+""", unsafe_allow_html=True)
+
 # -------------------------
 # Setup
 # -------------------------

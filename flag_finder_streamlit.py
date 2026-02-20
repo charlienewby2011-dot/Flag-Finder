@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 st.markdown(
-    '<meta name="google-site-verification" content="ABC123XYZ" />',
+    '<meta name="google-site-verification" content="VP_h96a1RKInZPnxtsMURIuxTDce8gaB4eB47lR9dPM" />',
     unsafe_allow_html=True
 )
 

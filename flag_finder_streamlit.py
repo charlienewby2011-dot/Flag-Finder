@@ -3,6 +3,17 @@ from PIL import Image, ImageDraw
 import json
 import os
 
+st.set_page_config(
+    page_title="Charlie’s Flag Finder",
+    page_icon="🏳️",
+    layout="wide"
+)
+
+st.markdown(
+    '<meta name="google-site-verification" content="ABC123XYZ" />',
+    unsafe_allow_html=True
+)
+
 # -------------------------
 # Setup
 # -------------------------

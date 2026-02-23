@@ -1,0 +1,3917 @@
+[
+  {
+    "country": "Afghanistan",
+    "code": "af",
+    "file": "flags/af.png",
+    "colours": [
+      "black",
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "Afghanistan's flag has been changed over 20 times since 1919!"
+  },
+  {
+    "country": "Åland Islands",
+    "code": "ax",
+    "file": "flags/ax.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "Åland's flag features a Nordic cross, showing its ties to Finland and Sweden."
+  },
+  {
+    "country": "Albania",
+    "code": "al",
+    "file": "flags/al.png",
+    "colours": [
+      "red",
+      "black"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "Albania's double-headed eagle has been a national symbol since the 15th century."
+  },
+  {
+    "country": "Algeria",
+    "code": "dz",
+    "file": "flags/dz.png",
+    "colours": [
+      "green",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The star and crescent on Algeria's flag symbolize Islam and the nation's independence."
+  },
+  {
+    "country": "American Samoa",
+    "code": "as",
+    "file": "flags/as.png",
+    "colours": [
+      "red",
+      "white",
+      "blue",
+      "yellow",
+      "brown"
+    ],
+    "patterns": [
+      "triangle",
+      "crest"
+    ],
+    "fun_fact": "The eagle on American Samoa's flag represents the United States protecting the islands."
+  },
+  {
+    "country": "Andorra",
+    "code": "ad",
+    "file": "flags/ad.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red",
+      "black"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "Andorra's flag shows the emblems of France and Spain, its neighboring countries."
+  },
+  {
+    "country": "Angola",
+    "code": "ao",
+    "file": "flags/ao.png",
+    "colours": [
+      "red",
+      "black",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "The machete on Angola's flag represents the nation's struggle for independence."
+  },
+  {
+    "country": "Anguilla",
+    "code": "ai",
+    "file": "flags/ai.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "Anguilla's dolphins symbolize unity, strength, and endurance."
+  },
+  {
+    "country": "Antarctica",
+    "code": "aq",
+    "file": "flags/aq.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "Antarctica doesn’t have an official national flag, but this design is used internationally."
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "code": "ag",
+    "file": "flags/ag.png",
+    "colours": [
+      "red",
+      "black",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The rising sun on Antigua and Barbuda's flag represents a new era."
+  },
+  {
+    "country": "Argentina",
+    "code": "ar",
+    "file": "flags/ar.png",
+    "colours": [
+      "blue",
+      "white",
+      "yellow",
+      "brown"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Argentina's Sun of May symbolizes freedom and independence."
+  },
+  {
+    "country": "Armenia",
+    "code": "am",
+    "file": "flags/am.png",
+    "colours": [
+      "red",
+      "blue",
+      "orange"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "The colors of Armenia's flag represent courage, loyalty, and creativity."
+  },
+  {
+    "country": "Aruba",
+    "code": "aw",
+    "file": "flags/aw.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The red star on Aruba's flag represents the island and its four points of compass."
+  },
+  {
+    "country": "Australia",
+    "code": "au",
+    "file": "flags/au.png",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "cross",
+      "star"
+    ],
+    "fun_fact": "The stars of the Southern Cross constellation appear on Australia's flag."
+  },
+  {
+    "country": "Austria",
+    "code": "at",
+    "file": "flags/at.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Austria's flag is one of the oldest national flags in the world."
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "az",
+    "file": "flags/az.png",
+    "colours": [
+      "blue",
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The crescent and star on Azerbaijan's flag symbolize Islam and Turkic heritage."
+  },
+  {
+    "country": "Bahamas",
+    "code": "bs",
+    "file": "flags/bs.png",
+    "colours": [
+      "black",
+      "yellow",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle"
+    ],
+    "fun_fact": "The black triangle on the Bahamas flag represents the people’s strength and will."
+  },
+  {
+    "country": "Bahrain",
+    "code": "bh",
+    "file": "flags/bh.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "zigzag"
+    ],
+    "fun_fact": "Bahrain's five white points symbolize the five pillars of Islam."
+  },
+  {
+    "country": "Bangladesh",
+    "code": "bd",
+    "file": "flags/bd.png",
+    "colours": [
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "circle"
+    ],
+    "fun_fact": "The red circle on Bangladesh's flag represents the sun and the blood of martyrs."
+  },
+  {
+    "country": "Barbados",
+    "code": "bb",
+    "file": "flags/bb.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "black"
+    ],
+    "patterns": [
+      "vertical",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "The trident on Barbados's flag represents independence from the UK."
+  },
+  {
+    "country": "Belarus",
+    "code": "by",
+    "file": "flags/by.png",
+    "colours": [
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Belarus' red and green colors symbolize the nation's history and fields."
+  },
+  {
+    "country": "Belgium",
+    "code": "be",
+    "file": "flags/be.png",
+    "colours": [
+      "black",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "Belgium’s black, yellow, and red are inspired by the coat of arms of the Duchy of Brabant."
+  },
+  {
+    "country": "Belize",
+    "code": "bz",
+    "file": "flags/bz.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "green",
+      "yellow",
+      "brown"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "circle",
+      "weapon"
+    ],
+    "fun_fact": "Belize's flag is unique for showing two human figures in its coat of arms."
+  },
+  {
+    "country": "Benin",
+    "code": "bj",
+    "file": "flags/bj.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "vertical",
+      "horizontal"
+    ],
+    "fun_fact": "Benin’s green represents hope and yellow represents wealth."
+  },
+  {
+    "country": "Bermuda",
+    "code": "bm",
+    "file": "flags/bm.png",
+    "colours": [
+      "red",
+      "blue",
+      "white",
+      "green",
+      "brown",
+      "yellow",
+      "black"
+    ],
+    "patterns": [
+      "cross",
+      "crest"
+    ],
+    "fun_fact": "Bermuda's flag has a red ensign with the Union Jack."
+  },
+  {
+    "country": "Bhutan",
+    "code": "bt",
+    "file": "flags/bt.png",
+    "colours": [
+      "yellow",
+      "orange",
+      "white"
+    ],
+    "patterns": [
+      "diagonal",
+      "dragon"
+    ],
+    "fun_fact": "The dragon on Bhutan's flag represents the purity and protection of the nation."
+  },
+  {
+    "country": "Bolivia",
+    "code": "bo",
+    "file": "flags/bo.png",
+    "colours": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "Bolivia’s tricolor reflects the nation’s military, mineral wealth, and fertility."
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "code": "ba",
+    "file": "flags/ba.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "Bosnia’s stars symbolize Europe and the nation’s hope for unity."
+  },
+  {
+    "country": "Botswana",
+    "code": "bw",
+    "file": "flags/bw.png",
+    "colours": [
+      "blue",
+      "white",
+      "black"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Botswana’s blue stands for water, a precious resource in the country."
+  },
+  {
+    "country": "Bouvet Island",
+    "code": "bv",
+    "file": "flags/bv.png",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "Bouvet Island is uninhabited, but its flag is officially recognized."
+  },
+  {
+    "country": "Brazil",
+    "code": "br",
+    "file": "flags/br.png",
+    "colours": [
+      "green",
+      "yellow",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "crest",
+      "circle",
+      "writing"
+    ],
+    "fun_fact": "Brazil’s flag has 27 stars, one for each state and the federal district."
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "code": "io",
+    "file": "flags/io.png",
+    "colours": [
+      "blue",
+      "white",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "This flag shows the Union Jack and palm tree for its tropical location."
+  },
+  {
+    "country": "Brunei",
+    "code": "bn",
+    "file": "flags/bn.png",
+    "colours": [
+      "yellow",
+      "white",
+      "black",
+      "red"
+    ],
+    "patterns": [
+      "diagonal",
+      "crest"
+    ],
+    "fun_fact": "Brunei’s flag features a parasol and hands symbolizing monarchy and protection."
+  },
+  {
+    "country": "Bulgaria",
+    "code": "bg",
+    "file": "flags/bg.png",
+    "colours": [
+      "white",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Bulgaria’s colors symbolize peace, agriculture, and courage."
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "bf",
+    "file": "flags/bf.png",
+    "colours": [
+      "red",
+      "green",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The star on Burkina Faso’s flag represents the guiding light of revolution."
+  },
+  {
+    "country": "Burundi",
+    "code": "bi",
+    "file": "flags/bi.png",
+    "colours": [
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "diagonal",
+      "star",
+      "circle"
+    ],
+    "fun_fact": "Burundi’s three stars represent the nation’s motto: Unity, Work, Progress."
+  },
+  {
+    "country": "Cambodia",
+    "code": "kh",
+    "file": "flags/kh.png",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Angkor Wat on Cambodia’s flag is one of the world’s largest religious monuments."
+  },
+  {
+    "country": "Cameroon",
+    "code": "cm",
+    "file": "flags/cm.png",
+    "colours": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "vertical",
+      "star"
+    ],
+    "fun_fact": "Cameroon’s star represents unity for the nation."
+  },
+  {
+    "country": "Canada",
+    "code": "ca",
+    "file": "flags/ca.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The maple leaf on Canada’s flag is a symbol recognized worldwide."
+  },
+  {
+    "country": "Cape Verde",
+    "code": "cv",
+    "file": "flags/cv.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The ten stars on Cape Verde’s flag represent its ten islands."
+  },
+  {
+    "country": "Caribbean Netherlands",
+    "code": "bq",
+    "file": "flags/bq.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The Caribbean Netherlands consists of three special municipalities—Bonaire, Sint Eustatius, and Saba—and each island has its own unique culture and natural beauty."
+  },
+  {
+    "country": "Cayman Islands",
+    "code": "ky",
+    "file": "flags/ky.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "cross",
+      "crest"
+    ],
+    "fun_fact": "The turtle on the Cayman Islands’ flag symbolizes the seafaring tradition."
+  },
+  {
+    "country": "Central African Republic",
+    "code": "cf",
+    "file": "flags/cf.png",
+    "colours": [
+      "blue",
+      "white",
+      "green",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "vertical",
+      "star"
+    ],
+    "fun_fact": "The flag’s colors represent the four regions and France, its former colonial power."
+  },
+  {
+    "country": "Chad",
+    "code": "td",
+    "file": "flags/td.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "Chad’s flag is almost identical to Romania’s flag!"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "file": "flags/cl.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The single star on Chile’s flag is called the ‘Star of Arauco’."
+  },
+  {
+    "country": "China",
+    "code": "cn",
+    "file": "flags/cn.png",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "star"
+    ],
+    "fun_fact": "China’s flag has one big star and four smaller stars symbolizing the unity of the Chinese people."
+  },
+  {
+    "country": "Christmas Island",
+    "code": "cx",
+    "file": "flags/cx.png",
+    "colours": [
+      "blue",
+      "green",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "The golden bosun bird on Christmas Island’s flag is native to the island."
+  },
+  {
+    "country": "Cocos Islands",
+    "code": "cc",
+    "file": "flags/cc.png",
+    "colours": [
+      "green",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "crest",
+      "star"
+    ],
+    "fun_fact": "The flag of the Cocos Islands includes a palm tree and a crescent on a blue field, reflecting the islands’ tropical environment and Islamic heritage of some residents."
+  },
+  {
+    "country": "Colombia",
+    "code": "co",
+    "file": "flags/co.png",
+    "colours": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Colombia’s yellow stripe represents its wealth and abundant gold."
+  },
+  {
+    "country": "Comoros",
+    "code": "km",
+    "file": "flags/km.png",
+    "colours": [
+      "yellow",
+      "white",
+      "red",
+      "blue",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "Comoros’ crescent and stars symbolize Islam and the four islands of the nation."
+  },
+  {
+    "country": "Republic of the Congo",
+    "code": "cg",
+    "file": "flags/cg.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "diagonal"
+    ],
+    "fun_fact": "The flag of the Republic of the Congo features a diagonal tricolor of green, yellow, and red, symbolizing the country’s forests, wealth, and struggle for independence."
+  },
+  {
+    "country": "DR Congo",
+    "code": "cd",
+    "file": "flags/cd.png",
+    "colours": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "The flag of the Democratic Republic of the Congo features a star on a blue field, symbolizing the unity and hope of the people."
+  },
+  {
+    "country": "Cook Islands",
+    "code": "ck",
+    "file": "flags/ck.png",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star",
+      "cross"
+    ],
+    "fun_fact": "The 15 stars on Cook Islands’ flag symbolize its 15 islands."
+  },
+  {
+    "country": "Costa Rica",
+    "code": "cr",
+    "file": "flags/cr.png",
+    "colours": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Costa Rica’s flag colors symbolize the sky, peace, blood shed for freedom, and the sun."
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "code": "ci",
+    "file": "flags/ci.png",
+    "colours": [
+      "orange",
+      "white",
+      "green"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "The flag of Côte d'Ivoire consists of three vertical stripes of orange, white, and green, symbolizing the land’s fertility, peace, and hope for the future."
+  },
+  {
+    "country": "Croatia",
+    "code": "hr",
+    "file": "flags/hr.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Croatia’s flag features a famous red-and-white checkerboard known as the ‘šahovnica’."
+  },
+  {
+    "country": "Cuba",
+    "code": "cu",
+    "file": "flags/cu.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "Cuba’s lone star represents independence and freedom."
+  },
+  {
+    "country": "Curaçao",
+    "code": "cw",
+    "file": "flags/cw.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The two stars represent the main island of Curaçao and the smaller island Klein Curaçao."
+  },
+  {
+    "country": "Cyprus",
+    "code": "cy",
+    "file": "flags/cy.png",
+    "colours": [
+      "white",
+      "orange",
+      "green"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "Cyprus’ flag features a map of the island to symbolize peace and neutrality."
+  },
+  {
+    "country": "Czechia",
+    "code": "cz",
+    "file": "flags/cz.png",
+    "colours": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle"
+    ],
+    "fun_fact": "The Czech flag design dates back to 1920 and survived the split from Slovakia."
+  },
+  {
+    "country": "Denmark",
+    "code": "dk",
+    "file": "flags/dk.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "Denmark’s flag, the Dannebrog, is the oldest continuously used national flag in the world."
+  },
+  {
+    "country": "Djibouti",
+    "code": "dj",
+    "file": "flags/dj.png",
+    "colours": [
+      "blue",
+      "green",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "The red star symbolizes unity and the blood shed for independence."
+  },
+  {
+    "country": "Dominica",
+    "code": "dm",
+    "file": "flags/dm.png",
+    "colours": [
+      "green",
+      "yellow",
+      "black",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "cross",
+      "crest",
+      "circle"
+    ],
+    "fun_fact": "Dominica’s parrot is the only national bird to appear on a flag."
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "do",
+    "file": "flags/do.png",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "cross",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "The Dominican flag features a Bible at the center of its coat of arms."
+  },
+  {
+    "country": "Ecuador",
+    "code": "ec",
+    "file": "flags/ec.png",
+    "colours": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "Ecuador’s flag has an Andean condor on the crest symbolizing power and protection."
+  },
+  {
+    "country": "Egypt",
+    "code": "eg",
+    "file": "flags/eg.png",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Egypt’s eagle on the flag represents strength and sovereignty."
+  },
+  {
+    "country": "El Salvador",
+    "code": "sv",
+    "file": "flags/sv.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The flag’s triangle symbolizes equality and the blue stripes represent the oceans."
+  },
+  {
+    "country": "England",
+    "code": "gb-eng",
+    "file": "flags/gb-eng.png",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The flag of England, known as the St George's Cross, is a red cross on a white background and has been associated with England since the Middle Ages."
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "gq",
+    "file": "flags/gq.png",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "crest"
+    ],
+    "fun_fact": "The silk-cotton tree on Equatorial Guinea’s flag represents the place where independence was declared."
+  },
+  {
+    "country": "Eritrea",
+    "code": "er",
+    "file": "flags/er.png",
+    "colours": [
+      "red",
+      "green",
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "triangle",
+      "crest"
+    ],
+    "fun_fact": "Eritrea’s flag star represents the country’s unity and aspirations for the future."
+  },
+  {
+    "country": "Estonia",
+    "code": "ee",
+    "file": "flags/ee.png",
+    "colours": [
+      "blue",
+      "black",
+      "white"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Estonia’s flag colors symbolize the sky, soil, and purity."
+  },
+  {
+    "country": "Eswatini",
+    "code": "sz",
+    "file": "flags/sz.png",
+    "colours": [
+      "blue",
+      "red",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "Eswatini’s shield and spears symbolize protection from enemies."
+  },
+  {
+    "country": "Ethiopia",
+    "code": "et",
+    "file": "flags/et.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "circle"
+    ],
+    "fun_fact": "Ethiopia’s flag inspired many African nations’ independence movements."
+  },
+  {
+    "country": "Falkland Islands",
+    "code": "fk",
+    "file": "flags/fk.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "The sheep and ship on the flag highlight the islands’ main industries."
+  },
+  {
+    "country": "Faroe Islands",
+    "code": "fo",
+    "file": "flags/fo.png",
+    "colours": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The cross on Faroe Islands’ flag represents Christianity."
+  },
+  {
+    "country": "Fiji",
+    "code": "fj",
+    "file": "flags/fj.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "cross",
+      "crest"
+    ],
+    "fun_fact": "Fiji’s flag shows a shield with sugarcane, coconut, and bananas, highlighting its agriculture."
+  },
+  {
+    "country": "Finland",
+    "code": "fi",
+    "file": "flags/fi.png",
+    "colours": [
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "Finland’s blue cross represents its many lakes."
+  },
+  {
+    "country": "France",
+    "code": "fr",
+    "file": "flags/fr.png",
+    "colours": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "The French flag is known as the Tricolore and symbolizes liberty, equality, fraternity."
+  },
+  {
+    "country": "French Guiana",
+    "code": "gf",
+    "file": "flags/gf.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "The red star on French Guiana’s flag symbolizes socialism and hope."
+  },
+  {
+    "country": "French Polynesia",
+    "code": "pf",
+    "file": "flags/pf.png",
+    "colours": [
+      "red",
+      "white",
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "French Polynesia’s flag shows a Polynesian canoe sailing the waves."
+  },
+  {
+    "country": "French Southern and Antarctic Lands",
+    "code": "tf",
+    "file": "flags/tf.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "This flag represents French territories in remote southern oceans and Antarctica."
+  },
+  {
+    "country": "Gabon",
+    "code": "ga",
+    "file": "flags/ga.png",
+    "colours": [
+      "green",
+      "yellow",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Gabon’s yellow stripe represents the equator, which runs through the country."
+  },
+  {
+    "country": "Gambia",
+    "code": "gm",
+    "file": "flags/gm.png",
+    "colours": [
+      "red",
+      "blue",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "The blue stripe represents the Gambia River, the country’s lifeline."
+  },
+  {
+    "country": "Georgia",
+    "code": "ge",
+    "file": "flags/ge.png",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "Georgia’s flag is called the ‘Five Cross Flag’ and was revived in 2004."
+  },
+  {
+    "country": "Germany",
+    "code": "de",
+    "file": "flags/de.png",
+    "colours": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "The black, red, and gold colors have been associated with German unity since the 19th century."
+  },
+  {
+    "country": "Ghana",
+    "code": "gh",
+    "file": "flags/gh.png",
+    "colours": [
+      "red",
+      "yellow",
+      "green",
+      "black"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The black star symbolizes African freedom and unity."
+  },
+  {
+    "country": "Gibraltar",
+    "code": "gi",
+    "file": "flags/gi.png",
+    "colours": [
+      "white",
+      "red",
+      "yellow",
+      "black"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Gibraltar’s flag features a castle and key, symbolizing its strategic fortress."
+  },
+  {
+    "country": "Greece",
+    "code": "gr",
+    "file": "flags/gr.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "cross"
+    ],
+    "fun_fact": "Greece’s nine stripes represent the nine syllables of the phrase 'Freedom or Death'."
+  },
+  {
+    "country": "Greenland",
+    "code": "gl",
+    "file": "flags/gl.png",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "circle"
+    ],
+    "fun_fact": "The red semicircle on Greenland’s flag represents the sun setting on the horizon."
+  },
+  {
+    "country": "Grenada",
+    "code": "gd",
+    "file": "flags/gd.png",
+    "colours": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "diagonal",
+      "star",
+      "circle"
+    ],
+    "fun_fact": "The nutmeg on Grenada’s flag represents the country’s nickname: 'Island of Spice.'"
+  },
+  {
+    "country": "Guadeloupe",
+    "code": "gp",
+    "file": "flags/gp.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "Guadeloupe’s flag incorporates symbols of its French colonial heritage and tropical identity."
+  },
+  {
+    "country": "Guam",
+    "code": "gu",
+    "file": "flags/gu.png",
+    "colours": [
+      "blue",
+      "red",
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The coconut tree and river on Guam’s flag symbolize the island’s landscape and resources."
+  },
+  {
+    "country": "Guatemala",
+    "code": "gt",
+    "file": "flags/gt.png",
+    "colours": [
+      "blue",
+      "white",
+      "yellow",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "vertical",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "Guatemala’s quetzal bird represents liberty and independence."
+  },
+  {
+    "country": "Guernsey",
+    "code": "gg",
+    "file": "flags/gg.png",
+    "colours": [
+      "white",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "Guernsey’s flag includes a gold cross representing the island’s connection to England."
+  },
+  {
+    "country": "Guinea",
+    "code": "gn",
+    "file": "flags/gn.png",
+    "colours": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "The flag’s colors follow the Pan-African movement’s symbolism."
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "gw",
+    "file": "flags/gw.png",
+    "colours": [
+      "red",
+      "yellow",
+      "green",
+      "black"
+    ],
+    "patterns": [
+      "vertical",
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The black star represents African unity and freedom."
+  },
+  {
+    "country": "Guyana",
+    "code": "gy",
+    "file": "flags/gy.png",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "black",
+      "yellow"
+    ],
+    "patterns": [
+      "triangle"
+    ],
+    "fun_fact": "Guyana’s flag is nicknamed ‘The Golden Arrowhead.’"
+  },
+  {
+    "country": "Haiti",
+    "code": "ht",
+    "file": "flags/ht.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "Haiti’s flag includes a coat of arms with a palm tree symbolizing independence."
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "code": "hm",
+    "file": "flags/hm.png",
+    "colours": [
+      "blue"
+    ],
+    "patterns": [
+      "star",
+      "cross"
+    ],
+    "fun_fact": "The unofficial flag of Heard Island and McDonald Islands features a simple design with the Union Jack, as it is an Australian external territory, reflecting its governance rather than local symbolism."
+  },
+  {
+    "country": "Honduras",
+    "code": "hn",
+    "file": "flags/hn.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The five stars represent the five nations of the former Federal Republic of Central America."
+  },
+  {
+    "country": "Hong Kong",
+    "code": "hk",
+    "file": "flags/hk.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "crest",
+      "star"
+    ],
+    "fun_fact": "The five-petal Bauhinia flower represents harmony between Hong Kong and China."
+  },
+  {
+    "country": "Hungary",
+    "code": "hu",
+    "file": "flags/hu.png",
+    "colours": [
+      "red",
+      "white",
+      "green"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Hungary’s flag colors symbolize strength, faithfulness, and hope."
+  },
+  {
+    "country": "Iceland",
+    "code": "is",
+    "file": "flags/is.png",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The red cross represents the island’s volcanic fires."
+  },
+  {
+    "country": "India",
+    "code": "in",
+    "file": "flags/in.png",
+    "colours": [
+      "orange",
+      "white",
+      "green",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "circle"
+    ],
+    "fun_fact": "The Ashoka Chakra has 24 spokes representing righteousness and progress."
+  },
+  {
+    "country": "Indonesia",
+    "code": "id",
+    "file": "flags/id.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Indonesia’s flag is called 'Sang Saka Merah Putih' meaning 'The Sacred Red and White.'"
+  },
+  {
+    "country": "Iran",
+    "code": "ir",
+    "file": "flags/ir.png",
+    "colours": [
+      "green",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "writing",
+      "crest"
+    ],
+    "fun_fact": "The emblem in the center represents the word Allah and a tulip, symbolizing martyrdom."
+  },
+  {
+    "country": "Iraq",
+    "code": "iq",
+    "file": "flags/iq.png",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "writing"
+    ],
+    "fun_fact": "The Arabic inscription 'Allahu Akbar' means 'God is great.'"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "file": "flags/ie.png",
+    "colours": [
+      "green",
+      "white",
+      "orange"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "The green represents Catholics, orange Protestants, and white peace between them."
+  },
+  {
+    "country": "Isle of Man",
+    "code": "im",
+    "file": "flags/im.png",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "The triskelion symbol with three legs is unique to the Isle of Man."
+  },
+  {
+    "country": "Israel",
+    "code": "il",
+    "file": "flags/il.png",
+    "colours": [
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The Star of David represents Jewish identity and heritage."
+  },
+  {
+    "country": "Italy",
+    "code": "it",
+    "file": "flags/it.png",
+    "colours": [
+      "green",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "Italy’s flag colors were inspired by the uniforms of the Cisalpine Republic’s army."
+  },
+  {
+    "country": "Jamaica",
+    "code": "jm",
+    "file": "flags/jm.png",
+    "colours": [
+      "green",
+      "black",
+      "yellow"
+    ],
+    "patterns": [
+      "diagonal"
+    ],
+    "fun_fact": "The flag’s colors symbolize the people, natural wealth, and sunshine."
+  },
+  {
+    "country": "Japan",
+    "code": "jp",
+    "file": "flags/jp.png",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "circle"
+    ],
+    "fun_fact": "The red circle represents the sun; Japan is called the 'Land of the Rising Sun.'"
+  },
+  {
+    "country": "Jersey",
+    "code": "je",
+    "file": "flags/je.png",
+    "colours": [
+      "white",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "diagonal",
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "Jersey’s flag incorporates the red cross of St. George and the island’s coat of arms."
+  },
+  {
+    "country": "Jordan",
+    "code": "jo",
+    "file": "flags/jo.png",
+    "colours": [
+      "black",
+      "white",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "The seven-pointed star represents the seven verses of the first surah in the Quran."
+  },
+  {
+    "country": "Kazakhstan",
+    "code": "kz",
+    "file": "flags/kz.png",
+    "colours": [
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The sun and eagle symbolize freedom and the country’s future."
+  },
+  {
+    "country": "Kenya",
+    "code": "ke",
+    "file": "flags/ke.png",
+    "colours": [
+      "black",
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "Kenya’s shield and spears symbolize defense of freedom."
+  },
+  {
+    "country": "Kiribati",
+    "code": "ki",
+    "file": "flags/ki.png",
+    "colours": [
+      "red",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The frigate bird represents power, freedom, and the sea."
+  },
+  {
+    "country": "North Korea",
+    "code": "kp",
+    "file": "flags/kp.png",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star",
+      "circle"
+    ],
+    "fun_fact": "The red star symbolizes communism and revolution."
+  },
+  {
+    "country": "South Korea",
+    "code": "kr",
+    "file": "flags/kr.png",
+    "colours": [
+      "white",
+      "red",
+      "blue",
+      "black"
+    ],
+    "patterns": [
+      "crest",
+      "circle"
+    ],
+    "fun_fact": "The trigrams represent heaven, earth, water, and fire."
+  },
+  {
+    "country": "Kosovo",
+    "code": "xk",
+    "file": "flags/xk.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "crest",
+      "star"
+    ],
+    "fun_fact": "The flag of Kosovo features a blue field with a golden map of the country and six white stars, each representing one of the major ethnic groups living there."
+  },
+  {
+    "country": "Kuwait",
+    "code": "kw",
+    "file": "flags/kw.png",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "black"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle"
+    ],
+    "fun_fact": "Kuwait’s flag colors are traditional Pan-Arab colors."
+  },
+  {
+    "country": "Kyrgyzstan",
+    "code": "kg",
+    "file": "flags/kg.png",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "crest",
+      "circle",
+      "star"
+    ],
+    "fun_fact": "The sun’s 40 rays represent the 40 tribes of Kyrgyzstan."
+  },
+  {
+    "country": "Laos",
+    "code": "la",
+    "file": "flags/la.png",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "circle"
+    ],
+    "fun_fact": "The white circle represents the unity of the people under the nation."
+  },
+  {
+    "country": "Latvia",
+    "code": "lv",
+    "file": "flags/lv.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Latvia’s dark red symbolizes the readiness to defend freedom."
+  },
+  {
+    "country": "Lebanon",
+    "code": "lb",
+    "file": "flags/lb.png",
+    "colours": [
+      "red",
+      "white",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The cedar tree represents peace, immortality, and tolerance."
+  },
+  {
+    "country": "Lesotho",
+    "code": "ls",
+    "file": "flags/ls.png",
+    "colours": [
+      "blue",
+      "white",
+      "green",
+      "black"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "Lesotho’s hat symbol represents the traditional Basotho hat."
+  },
+  {
+    "country": "Liberia",
+    "code": "lr",
+    "file": "flags/lr.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "Liberia’s single star represents freedom and independence."
+  },
+  {
+    "country": "Libya",
+    "code": "ly",
+    "file": "flags/ly.png",
+    "colours": [
+      "red",
+      "black",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crescent",
+      "star"
+    ],
+    "fun_fact": "Libya’s crescent and star are symbols of Islam."
+  },
+  {
+    "country": "Liechtenstein",
+    "code": "li",
+    "file": "flags/li.png",
+    "colours": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The crown symbolizes the unity of the people and the monarchy."
+  },
+  {
+    "country": "Lithuania",
+    "code": "lt",
+    "file": "flags/lt.png",
+    "colours": [
+      "yellow",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Yellow represents the sun, green the forests, and red the courage of the nation."
+  },
+  {
+    "country": "Luxembourg",
+    "code": "lu",
+    "file": "flags/lu.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Luxembourg’s flag colors are similar to the Netherlands, but the shade of blue is lighter."
+  },
+  {
+    "country": "Macau",
+    "code": "mo",
+    "file": "flags/mo.png",
+    "colours": [
+      "green",
+      "white",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The flag of Macau has a green field with a white lotus flower above a stylized bridge and water, beneath an arc of five golden stars, symbolizing its connection to China."
+  },
+  {
+    "country": "Madagascar",
+    "code": "mg",
+    "file": "flags/mg.png",
+    "colours": [
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "vertical",
+      "horizontal"
+    ],
+    "fun_fact": "The colors reflect the history of the Merina kingdom and French colonial influence."
+  },
+  {
+    "country": "Malawi",
+    "code": "mw",
+    "file": "flags/mw.png",
+    "colours": [
+      "black",
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The rising sun symbolizes the dawn of hope and freedom for Africa."
+  },
+  {
+    "country": "Malaysia",
+    "code": "my",
+    "file": "flags/my.png",
+    "colours": [
+      "red",
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "star",
+      "crescent"
+    ],
+    "fun_fact": "The 14 stripes represent the 13 states and the federal government."
+  },
+  {
+    "country": "Maldives",
+    "code": "mv",
+    "file": "flags/mv.png",
+    "colours": [
+      "red",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The crescent symbolizes Islam, the national religion."
+  },
+  {
+    "country": "Mali",
+    "code": "ml",
+    "file": "flags/ml.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "Mali’s flag follows the Pan-African colors, symbolizing hope, purity, and sacrifice."
+  },
+  {
+    "country": "Malta",
+    "code": "mt",
+    "file": "flags/mt.png",
+    "colours": [
+      "white",
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The George Cross was awarded to Malta by King George VI in 1942 for bravery during WWII."
+  },
+  {
+    "country": "Marshall Islands",
+    "code": "mh",
+    "file": "flags/mh.png",
+    "colours": [
+      "blue",
+      "orange",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "The 24-pointed star represents the number of electoral districts."
+  },
+  {
+    "country": "Martinique",
+    "code": "mq",
+    "file": "flags/mq.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "Martinique’s colonial-era flag features snakes, historically associated with the island."
+  },
+  {
+    "country": "Mauritania",
+    "code": "mr",
+    "file": "flags/mr.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "crescent",
+      "star"
+    ],
+    "fun_fact": "The crescent and star symbolize Islam; the red stripes represent the blood shed for independence."
+  },
+  {
+    "country": "Mauritius",
+    "code": "mu",
+    "file": "flags/mu.png",
+    "colours": [
+      "red",
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Each color represents a different aspect of the nation: red for independence, blue for the ocean, yellow for sunlight, and green for agriculture."
+  },
+  {
+    "country": "Mayotte",
+    "code": "yt",
+    "file": "flags/yt.png",
+    "colours": [
+      "white",
+      "blue",
+      "red",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "crest",
+      "writing"
+    ],
+    "fun_fact": "Mayotte’s flag features a coat of arms highlighting local culture and geography."
+  },
+  {
+    "country": "Mexico",
+    "code": "mx",
+    "file": "flags/mx.png",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "brown",
+      "yellow"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The eagle and snake symbolize an ancient Aztec legend about the founding of Tenochtitlán."
+  },
+  {
+    "country": "Micronesia",
+    "code": "fm",
+    "file": "flags/fm.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "star"
+    ],
+    "fun_fact": "The four stars represent the four states of the Federated States of Micronesia."
+  },
+  {
+    "country": "Moldova",
+    "code": "md",
+    "file": "flags/md.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red",
+      "brown",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The eagle holds a cross and scepter, symbolizing sovereignty and faith."
+  },
+  {
+    "country": "Monaco",
+    "code": "mc",
+    "file": "flags/mc.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Monaco’s flag is nearly identical to Indonesia’s, but with different proportions."
+  },
+  {
+    "country": "Mongolia",
+    "code": "mn",
+    "file": "flags/mn.png",
+    "colours": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The Soyombo symbol represents freedom, independence, and fire."
+  },
+  {
+    "country": "Montenegro",
+    "code": "me",
+    "file": "flags/me.png",
+    "colours": [
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The lion represents courage and strength of Montenegro’s people."
+  },
+  {
+    "country": "Montserrat",
+    "code": "ms",
+    "file": "flags/ms.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "cross",
+      "crest"
+    ],
+    "fun_fact": "The woman on the shield represents Erin, the symbol of Montserrat’s Irish heritage."
+  },
+  {
+    "country": "Morocco",
+    "code": "ma",
+    "file": "flags/ma.png",
+    "colours": [
+      "red",
+      "green"
+    ],
+    "patterns": [
+      "star"
+    ],
+    "fun_fact": "The green pentagram is called the Seal of Solomon and represents wisdom and peace."
+  },
+  {
+    "country": "Mozambique",
+    "code": "mz",
+    "file": "flags/mz.png",
+    "colours": [
+      "green",
+      "black",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "The AK-47 on the flag symbolizes defense and vigilance."
+  },
+  {
+    "country": "Myanmar",
+    "code": "mm",
+    "file": "flags/mm.png",
+    "colours": [
+      "yellow",
+      "green",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The star symbolizes the union of Myanmar’s diverse ethnic groups."
+  },
+  {
+    "country": "Namibia",
+    "code": "na",
+    "file": "flags/na.png",
+    "colours": [
+      "blue",
+      "red",
+      "green",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "diagonal",
+      "star",
+      "triangle"
+    ],
+    "fun_fact": "The sun symbolizes life and energy; red stands for the people."
+  },
+  {
+    "country": "Nauru",
+    "code": "nr",
+    "file": "flags/nr.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The white 12-pointed star represents the 12 original tribes of Nauru."
+  },
+  {
+    "country": "Nepal",
+    "code": "np",
+    "file": "flags/np.png",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "triangle",
+      "crest"
+    ],
+    "fun_fact": "Nepal’s flag is the only national flag that is not quadrilateral."
+  },
+  {
+    "country": "Netherlands",
+    "code": "nl",
+    "file": "flags/nl.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "The flag was derived from the Prince’s Flag during the Dutch Revolt."
+  },
+  {
+    "country": "New Caledonia",
+    "code": "nc",
+    "file": "flags/nc.png",
+    "colours": [
+      "blue",
+      "red",
+      "green",
+      "yellow",
+      "white",
+      "black"
+    ],
+    "patterns": [
+      "horizontal",
+      "star",
+      "crest"
+    ],
+    "fun_fact": "The disc represents the sun rising over the land and the symbol of Kanak culture."
+  },
+  {
+    "country": "New Zealand",
+    "code": "nz",
+    "file": "flags/nz.png",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "cross",
+      "star"
+    ],
+    "fun_fact": "The four red stars represent the Southern Cross constellation."
+  },
+  {
+    "country": "Nicaragua",
+    "code": "ni",
+    "file": "flags/ni.png",
+    "colours": [
+      "blue",
+      "white",
+      "yellow",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The triangle represents equality, liberty, and fraternity."
+  },
+  {
+    "country": "Niger",
+    "code": "ne",
+    "file": "flags/ne.png",
+    "colours": [
+      "orange",
+      "white",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "circle"
+    ],
+    "fun_fact": "The orange circle symbolizes the sun."
+  },
+  {
+    "country": "Nigeria",
+    "code": "ng",
+    "file": "flags/ng.png",
+    "colours": [
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "The green represents agriculture; white symbolizes peace."
+  },
+  {
+    "country": "Niue",
+    "code": "nu",
+    "file": "flags/nu.png",
+    "colours": [
+      "yellow",
+      "blue",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "cross",
+      "star",
+      "crest"
+    ],
+    "fun_fact": "The flag reflects Niue’s historical ties to the United Kingdom."
+  },
+  {
+    "country": "Norfolk Island",
+    "code": "nf",
+    "file": "flags/nf.png",
+    "colours": [
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The Norfolk Island pine represents the island’s native flora."
+  },
+  {
+    "country": "North Macedonia",
+    "code": "mk",
+    "file": "flags/mk.png",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "The sunburst represents 'the new sun of liberty.'"
+  },
+  {
+    "country": "Northern Ireland",
+    "code": "gb-nir",
+    "file": "flags/gb-nir.png",
+    "colours": [
+      "white",
+      "red",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "cross",
+      "crest"
+    ],
+    "fun_fact": "The flag of Northern Ireland, known as the Ulster Banner, features a red cross on a white field with a six-pointed star, a red hand, and a crown, representing the historic province of Ulster."
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "code": "mp",
+    "file": "flags/mp.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow",
+      "brown"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The flag of the Northern Mariana Islands features a white star and a gray latte stone, which is a traditional Chamorro stone pillar, surrounded by a decorative wreath, symbolizing the islands' indigenous culture."
+  },
+  {
+    "country": "Norway",
+    "code": "no",
+    "file": "flags/no.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The cross represents Christianity; colors were inspired by France and Denmark."
+  },
+  {
+    "country": "Oman",
+    "code": "om",
+    "file": "flags/om.png",
+    "colours": [
+      "white",
+      "red",
+      "green"
+    ],
+    "patterns": [
+      "vertical",
+      "horizontal",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "White symbolizes peace, red represents battles against invaders, and green stands for fertility."
+  },
+  {
+    "country": "Pakistan",
+    "code": "pk",
+    "file": "flags/pk.png",
+    "colours": [
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "vertical",
+      "crescent",
+      "star"
+    ],
+    "fun_fact": "The white stripe represents religious minorities; the crescent represents progress."
+  },
+  {
+    "country": "Palau",
+    "code": "pw",
+    "file": "flags/pw.png",
+    "colours": [
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "circle"
+    ],
+    "fun_fact": "The yellow circle symbolizes the moon, reflecting peace and tranquility."
+  },
+  {
+    "country": "Palestine",
+    "code": "ps",
+    "file": "flags/ps.png",
+    "colours": [
+      "black",
+      "white",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle"
+    ],
+    "fun_fact": "The colors represent Pan-Arab colors of Arab unity and independence."
+  },
+  {
+    "country": "Panama",
+    "code": "pa",
+    "file": "flags/pa.png",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "cross",
+      "star"
+    ],
+    "fun_fact": "The stars symbolize the two political parties and the purity of the nation."
+  },
+  {
+    "country": "Papua New Guinea",
+    "code": "pg",
+    "file": "flags/pg.png",
+    "colours": [
+      "black",
+      "red",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "diagonal",
+      "star",
+      "crest"
+    ],
+    "fun_fact": "The Raggiana bird-of-paradise symbolizes the country’s rich wildlife."
+  },
+  {
+    "country": "Paraguay",
+    "code": "py",
+    "file": "flags/py.png",
+    "colours": [
+      "red",
+      "white",
+      "blue",
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "circle"
+    ],
+    "fun_fact": "Paraguay’s flag is unique with different designs on the front and back."
+  },
+  {
+    "country": "Peru",
+    "code": "pe",
+    "file": "flags/pe.png",
+    "colours": [
+      "red",
+      "white",
+      "yellow",
+      "green",
+      "brown",
+      "blue"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The vicuña on the crest represents Peru’s national animal."
+  },
+  {
+    "country": "Philippines",
+    "code": "ph",
+    "file": "flags/ph.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "The flag is flown upside down only in times of war."
+  },
+  {
+    "country": "Pitcairn Islands",
+    "code": "pn",
+    "file": "flags/pn.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "green",
+      "red",
+      "white",
+      "brown"
+    ],
+    "patterns": [
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "The ship represents the HMS Bounty, central to the island’s history."
+  },
+  {
+    "country": "Poland",
+    "code": "pl",
+    "file": "flags/pl.png",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "White symbolizes peace and purity, red represents the struggle for freedom."
+  },
+  {
+    "country": "Portugal",
+    "code": "pt",
+    "file": "flags/pt.png",
+    "colours": [
+      "green",
+      "red",
+      "yellow",
+      "blue",
+      "white",
+      "brown"
+    ],
+    "patterns": [
+      "vertical",
+      "crest",
+      "circle"
+    ],
+    "fun_fact": "The armillary sphere symbolizes Portugal’s Age of Exploration."
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "pr",
+    "file": "flags/pr.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "The single white star represents the Commonwealth of Puerto Rico."
+  },
+  {
+    "country": "Qatar",
+    "code": "qa",
+    "file": "flags/qa.png",
+    "colours": [
+      "maroon",
+      "white"
+    ],
+    "patterns": [
+      "zigzag"
+    ],
+    "fun_fact": "The maroon color symbolizes bloodshed in Qatar’s history; the serrated edge has nine points."
+  },
+  {
+    "country": "Réunion",
+    "code": "re",
+    "file": "flags/re.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "diagonal"
+    ],
+    "fun_fact": "The flag represents the island’s unique cultural diversity."
+  },
+  {
+    "country": "Romania",
+    "code": "ro",
+    "file": "flags/ro.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "vertical"
+    ],
+    "fun_fact": "The colors represent liberty (blue), justice (yellow), and fraternity (red)."
+  },
+  {
+    "country": "Russia",
+    "code": "ru",
+    "file": "flags/ru.png",
+    "colours": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "The colors have historic origins, representing the Russian Empire."
+  },
+  {
+    "country": "Rwanda",
+    "code": "rw",
+    "file": "flags/rw.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The sun represents enlightenment; blue for happiness and peace."
+  },
+  {
+    "country": "Saint Barthélemy",
+    "code": "bl",
+    "file": "flags/bl.png",
+    "colours": [
+      "white",
+      "blue",
+      "yellow",
+      "red",
+      "green",
+      "brown"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The coat of arms reflects the island’s colonial history."
+  },
+  {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "sh",
+    "file": "flags/sh.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "patterns": [
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "The flag features the Union Jack in the canton and the coat of arms of Saint Helena, which represents the island's history, maritime heritage, and local wildlife."
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "code": "kn",
+    "file": "flags/kn.png",
+    "colours": [
+      "green",
+      "yellow",
+      "black",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "The two stars represent the two islands of the federation."
+  },
+  {
+    "country": "Saint Lucia",
+    "code": "lc",
+    "file": "flags/lc.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "patterns": [
+      "triangle"
+    ],
+    "fun_fact": "The triangle represents the island’s famous Pitons mountains."
+  },
+  {
+    "country": "Saint Martin",
+    "code": "mf",
+    "file": "flags/mf.png",
+    "colours": [
+      "red",
+      "white",
+      "blue",
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The flag is a French tricolor with a local coat of arms."
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "code": "pm",
+    "file": "flags/pm.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The ships symbolize the Basque, Breton, and Norman heritage of settlers."
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "code": "vc",
+    "file": "flags/vc.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "triangle"
+    ],
+    "fun_fact": "The diamonds symbolize the islands’ nickname, 'The Gems of the Antilles.'"
+  },
+  {
+    "country": "Samoa",
+    "code": "ws",
+    "file": "flags/ws.png",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "crest",
+      "star"
+    ],
+    "fun_fact": "The Southern Cross constellation represents the country’s geographical location."
+  },
+  {
+    "country": "San Marino",
+    "code": "sm",
+    "file": "flags/sm.png",
+    "colours": [
+      "white",
+      "blue",
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The crown atop the coat of arms symbolizes sovereignty."
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "code": "st",
+    "file": "flags/st.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "black"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "The flag's two black stars represent the two main islands, and the green and yellow colors symbolize the rich vegetation and tropical climate of the country."
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "sa",
+    "file": "flags/sa.png",
+    "colours": [
+      "green",
+      "white"
+    ],
+    "patterns": [
+      "writing",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "The inscription is the Islamic declaration of faith; the sword represents justice."
+  },
+  {
+    "country": "Scotland",
+    "code": "gb-sct",
+    "file": "flags/gb-sct.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The Scottish flag, known as the Saltire or St. Andrew's Cross, is one of the oldest flags in the world, dating back to at least the 9th century."
+  },
+  {
+    "country": "Senegal",
+    "code": "sn",
+    "file": "flags/sn.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "vertical",
+      "star"
+    ],
+    "fun_fact": "The green star symbolizes hope and the country’s independence."
+  },
+  {
+    "country": "Serbia",
+    "code": "rs",
+    "file": "flags/rs.png",
+    "colours": [
+      "red",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The double-headed eagle represents the Serbian Orthodox Church."
+  },
+  {
+    "country": "Seychelles",
+    "code": "sc",
+    "file": "flags/sc.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red",
+      "white",
+      "green"
+    ],
+    "patterns": [
+      "diagonal"
+    ],
+    "fun_fact": "The angled bands represent a dynamic nation moving into the future."
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "sl",
+    "file": "flags/sl.png",
+    "colours": [
+      "green",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Green symbolizes agriculture, white for unity, blue for the sea."
+  },
+  {
+    "country": "Singapore",
+    "code": "sg",
+    "file": "flags/sg.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star",
+      "crescent"
+    ],
+    "fun_fact": "The crescent represents a young nation, the five stars represent democracy, peace, progress, justice, and equality."
+  },
+  {
+    "country": "Sint Maarten",
+    "code": "sx",
+    "file": "flags/sx.png",
+    "colours": [
+      "red",
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "triangle",
+      "crest"
+    ],
+    "fun_fact": "The rising sun symbolizes a new beginning for the country."
+  },
+  {
+    "country": "Slovakia",
+    "code": "sk",
+    "file": "flags/sk.png",
+    "colours": [
+      "white",
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The double cross represents Christianity; the three hills represent the Tatra, Fatra, and Matra mountains."
+  },
+  {
+    "country": "Slovenia",
+    "code": "si",
+    "file": "flags/si.png",
+    "colours": [
+      "white",
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The three stars represent the Counts of Celje, a historical dynasty."
+  },
+  {
+    "country": "Solomon Islands",
+    "code": "sb",
+    "file": "flags/sb.png",
+    "colours": [
+      "blue",
+      "green",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "diagonal",
+      "star"
+    ],
+    "fun_fact": "The five stars represent the five main island groups."
+  },
+  {
+    "country": "Somalia",
+    "code": "so",
+    "file": "flags/so.png",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "star"
+    ],
+    "fun_fact": "The white five-pointed star symbolizes unity of the Somali people."
+  },
+  {
+    "country": "South Africa",
+    "code": "za",
+    "file": "flags/za.png",
+    "colours": [
+      "green",
+      "yellow",
+      "black",
+      "white",
+      "red",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "The Y-shape represents the convergence of diverse elements in South African society."
+  },
+  {
+    "country": "South Georgia",
+    "code": "gs",
+    "file": "flags/gs.png",
+    "colours": [
+      "blue",
+      "white",
+      "yellow",
+      "red"
+    ],
+    "patterns": [
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "The flag features the Union Jack and the territory’s coat of arms, highlighting its status as a British Overseas Territory in the South Atlantic"
+  },
+  {
+    "country": "South Sudan",
+    "code": "ss",
+    "file": "flags/ss.png",
+    "colours": [
+      "black",
+      "red",
+      "green",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The star symbolizes unity of the states in South Sudan."
+  },
+  {
+    "country": "Spain",
+    "code": "es",
+    "file": "flags/es.png",
+    "colours": [
+      "red",
+      "yellow",
+      "blue",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The two red stripes represent the bloodshed during battles; yellow represents generosity."
+  },
+  {
+    "country": "Sri Lanka",
+    "code": "lk",
+    "file": "flags/lk.png",
+    "colours": [
+      "maroon",
+      "orange",
+      "green",
+      "yellow"
+    ],
+    "patterns": [
+      "cross",
+      "crest",
+      "weapon"
+    ],
+    "fun_fact": "The lion represents the Sinhalese ethnicity, and the sword symbolizes sovereignty."
+  },
+  {
+    "country": "Sudan",
+    "code": "sd",
+    "file": "flags/sd.png",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle"
+    ],
+    "fun_fact": "Red symbolizes the struggle for freedom; black represents Sudan itself."
+  },
+  {
+    "country": "Suriname",
+    "code": "sr",
+    "file": "flags/sr.png",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The yellow star represents unity of all ethnic groups in the country."
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "code": "sj",
+    "file": "flags/sj.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The flag is based on Norway’s flag, reflecting administrative ties."
+  },
+  {
+    "country": "Sweden",
+    "code": "se",
+    "file": "flags/se.png",
+    "colours": [
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The yellow cross represents Christianity."
+  },
+  {
+    "country": "Switzerland",
+    "code": "ch",
+    "file": "flags/ch.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The Swiss flag is square, one of only two square national flags."
+  },
+  {
+    "country": "Syria",
+    "code": "sy",
+    "file": "flags/sy.png",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The two green stars originally represented Syria and Egypt during the United Arab Republic."
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "file": "flags/tw.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "star",
+      "cross"
+    ],
+    "fun_fact": "The white sun with twelve rays represents the twelve months and twelve traditional Chinese hours."
+  },
+  {
+    "country": "Tajikistan",
+    "code": "tj",
+    "file": "flags/tj.png",
+    "colours": [
+      "red",
+      "white",
+      "green",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest"
+    ],
+    "fun_fact": "The crown and seven stars symbolize the unity of the Tajik people."
+  },
+  {
+    "country": "Tanzania",
+    "code": "tz",
+    "file": "flags/tz.png",
+    "colours": [
+      "green",
+      "yellow",
+      "black",
+      "blue"
+    ],
+    "patterns": [
+      "diagonal"
+    ],
+    "fun_fact": "Green represents land, blue for the sea, yellow for minerals, and black for people."
+  },
+  {
+    "country": "Thailand",
+    "code": "th",
+    "file": "flags/th.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Red represents the land and people, white for religions, and blue for the monarchy."
+  },
+  {
+    "country": "Timor-Leste",
+    "code": "tl",
+    "file": "flags/tl.png",
+    "colours": [
+      "red",
+      "black",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "triangle",
+      "star"
+    ],
+    "fun_fact": "The yellow triangle represents the traces of colonialism; the black triangle represents struggles for independence."
+  },
+  {
+    "country": "Togo",
+    "code": "tg",
+    "file": "flags/tg.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The five stripes represent the five regions of Togo."
+  },
+  {
+    "country": "Tokelau",
+    "code": "tk",
+    "file": "flags/tk.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "patterns": [
+      "star",
+      "crescent",
+      "cross"
+    ],
+    "fun_fact": "The flag depicts a traditional Polynesian canoe navigating the Southern Cross."
+  },
+  {
+    "country": "Tonga",
+    "code": "to",
+    "file": "flags/to.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The red cross represents Christianity."
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "code": "tt",
+    "file": "flags/tt.png",
+    "colours": [
+      "red",
+      "white",
+      "black"
+    ],
+    "patterns": [
+      "diagonal"
+    ],
+    "fun_fact": "Red represents the sun, white for sea, black for strength."
+  },
+  {
+    "country": "Tunisia",
+    "code": "tn",
+    "file": "flags/tn.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "circle",
+      "star",
+      "crescent"
+    ],
+    "fun_fact": "The crescent and star symbolize Islam."
+  },
+  {
+    "country": "Turkey",
+    "code": "tr",
+    "file": "flags/tr.png",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "star",
+      "crescent"
+    ],
+    "fun_fact": "The crescent and star have long been symbols of the Ottoman Empire."
+  },
+  {
+    "country": "Turkmenistan",
+    "code": "tm",
+    "file": "flags/tm.png",
+    "colours": [
+      "green",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "vertical",
+      "crescent",
+      "star"
+    ],
+    "fun_fact": "The five carpet patterns represent the five major tribes of Turkmenistan."
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "code": "tc",
+    "file": "flags/tc.png",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow",
+      "green"
+    ],
+    "patterns": [
+      "crest",
+      "cross"
+    ],
+    "fun_fact": "The flag shows the Union Jack and the territory’s coat of arms, which includes a conch shell, a lobster, and a cactus, symbolizing the islands’ marine life and natural environment."
+  },
+  {
+    "country": "Tuvalu",
+    "code": "tv",
+    "file": "flags/tv.png",
+    "colours": [
+      "blue",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "star",
+      "cross"
+    ],
+    "fun_fact": "The nine stars represent the nine islands of Tuvalu."
+  },
+  {
+    "country": "Uganda",
+    "code": "ug",
+    "file": "flags/ug.png",
+    "colours": [
+      "black",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "crest",
+      "circle"
+    ],
+    "fun_fact": "The grey crowned crane represents Uganda’s national bird."
+  },
+  {
+    "country": "Ukraine",
+    "code": "ua",
+    "file": "flags/ua.png",
+    "colours": [
+      "blue",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Blue represents the sky, yellow represents wheat fields."
+  },
+  {
+    "country": "United Arab Emirates",
+    "code": "ae",
+    "file": "flags/ae.png",
+    "colours": [
+      "green",
+      "white",
+      "black",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "vertical"
+    ],
+    "fun_fact": "The colors represent Arab unity: red for courage, green for fertility, white for peace, black for strength."
+  },
+  {
+    "country": "United Kingdom",
+    "code": "gb",
+    "file": "flags/gb.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "cross",
+      "diagonal"
+    ],
+    "fun_fact": "The flag combines the crosses of England, Scotland, and Ireland."
+  },
+  {
+    "country": "United States",
+    "code": "us",
+    "file": "flags/us.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The 50 stars represent the 50 states; 13 stripes represent the original colonies."
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "code": "um",
+    "file": "flags/um.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "star",
+      "horizontal"
+    ],
+    "fun_fact": "The flag is a variant of the U.S. flag, often using the standard stars and stripes, representing the islands’ status as unincorporated territories of the United States."
+  },
+  {
+    "country": "Uruguay",
+    "code": "uy",
+    "file": "flags/uy.png",
+    "colours": [
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The Sun of May represents freedom and independence."
+  },
+  {
+    "country": "Uzbekistan",
+    "code": "uz",
+    "file": "flags/uz.png",
+    "colours": [
+      "blue",
+      "white",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "crescent",
+      "star"
+    ],
+    "fun_fact": "The crescent represents the rebirth of Uzbekistan; 12 stars for the months."
+  },
+  {
+    "country": "Vanuatu",
+    "code": "vu",
+    "file": "flags/vu.png",
+    "colours": [
+      "red",
+      "green",
+      "black",
+      "yellow"
+    ],
+    "patterns": [
+      "triangle",
+      "horizontal"
+    ],
+    "fun_fact": "The emblem features a boar’s tusk, a symbol of prosperity."
+  },
+  {
+    "country": "Vatican City",
+    "code": "va",
+    "file": "flags/va.png",
+    "colours": [
+      "yellow",
+      "white",
+      "red"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The keys represent the keys to Heaven given to Saint Peter."
+  },
+  {
+    "country": "Venezuela",
+    "code": "ve",
+    "file": "flags/ve.png",
+    "colours": [
+      "yellow",
+      "blue",
+      "red",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "star"
+    ],
+    "fun_fact": "The eight stars represent the provinces that joined in independence."
+  },
+  {
+    "country": "Vietnam",
+    "code": "vn",
+    "file": "flags/vn.png",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "star"
+    ],
+    "fun_fact": "The yellow star represents the leadership of the Communist Party over workers, peasants, soldiers, intellectuals, and youth."
+  },
+  {
+    "country": "British Virgin Islands",
+    "code": "vg",
+    "file": "flags/vg.png",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "green",
+      "yellow"
+    ],
+    "patterns": [
+      "cross",
+      "crest"
+    ],
+    "fun_fact": "The flag features the Union Jack and the territory's coat of arms, which depicts Saint Ursula holding a gold lamp, referencing the islands' name origin."
+  },
+  {
+    "country": "United States Virgin Islands",
+    "code": "vi",
+    "file": "flags/vi.png",
+    "colours": [
+      "white",
+      "yellow",
+      "red",
+      "blue",
+      "green",
+      "black"
+    ],
+    "patterns": [
+      "crest"
+    ],
+    "fun_fact": "The flag features an eagle holding a laurel branch and three arrows, symbolizing peace and the three main islands: Saint Thomas, Saint John, and Saint Croix."
+  },
+  {
+    "country": "Wales",
+    "code": "gb-wls",
+    "file": "flags/gb-wls.png",
+    "colours": [
+      "white",
+      "green",
+      "red",
+      "yellow"
+    ],
+    "patterns": [
+      "dragon",
+      "horizontal"
+    ],
+    "fun_fact": "The Welsh flag features a red dragon, a symbol of strength and courage, which has been associated with Wales for centuries."
+  },
+  {
+    "country": "Wallis and Futuna",
+    "code": "wf",
+    "file": "flags/wf.png",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "patterns": [
+      "cross"
+    ],
+    "fun_fact": "The flag incorporates the French Tricolor, reflecting its overseas territory status."
+  },
+  {
+    "country": "Western Sahara",
+    "code": "eh",
+    "file": "flags/eh.png",
+    "colours": [
+      "black",
+      "white",
+      "green",
+      "red"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star",
+      "crescent"
+    ],
+    "fun_fact": "The crescent and star symbolize Islam."
+  },
+  {
+    "country": "Yemen",
+    "code": "ye",
+    "file": "flags/ye.png",
+    "colours": [
+      "red",
+      "white",
+      "black"
+    ],
+    "patterns": [
+      "horizontal"
+    ],
+    "fun_fact": "Red represents unity and struggle, white symbolizes a bright future, and black the dark past."
+  },
+  {
+    "country": "Zambia",
+    "code": "zm",
+    "file": "flags/zm.png",
+    "colours": [
+      "green",
+      "red",
+      "black",
+      "orange"
+    ],
+    "patterns": [
+      "vertical",
+      "crest"
+    ],
+    "fun_fact": "The eagle represents the freedom and ability to rise above the nation’s problems."
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "zw",
+    "file": "flags/zw.png",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "black",
+      "white"
+    ],
+    "patterns": [
+      "horizontal",
+      "triangle",
+      "star",
+      "crest"
+    ],
+    "fun_fact": "The Zimbabwe Bird is a national emblem and historic symbol of the nation."
+  }
+]

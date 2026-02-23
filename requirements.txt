@@ -1,0 +1,4 @@
+pillow
+nicegui
+os
+json
